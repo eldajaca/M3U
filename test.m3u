@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Canales.ae" tvg-name="Canales" tvg-logo="https://www.brandemia.org/wp-content/uploads/2012/06/logo_principal_telemundo.jpg" group-title="Canales",Telemundo
+http://mmesk241018a.wanicelife.com:8880/D12m3783/75587387/60072
+#EXTINF:-1 tvg-id="Canales.ae" tvg-name="Canales" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZObriX0ID_CpECdCroGwy1bvh8BoIi33xqA&s" group-title="Canales",Canal de las Estrellas 
+http://mmesk241018a.wanicelife.com:8880/D12m3783/75587387/51423
 #EXTINF:-1 tvg-id="Canales.ae" tvg-name="Canales" tvg-logo="https://yt3.googleusercontent.com/jnFLuIufF5FIbyeatgUuNRCZHkdk0Fe3-KDR3sbaPobP3WZzbmGqM7vKqiPUOpFoQHcH1uKG-g=s900-c-k-c0x00ffffff-no-rj" group-title="Canales",CNN En Español
 http://mmesk241018a.wanicelife.com:8880/D12m3783/75587387/51416
 #EXTINF:-1 tvg-id="Peliculas.ae" tvg-name="Peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjRmNmM3MmUtY2QzZC00Njk3LWE5ZDQtNjk5NDVlOTUwYWQ1XkEyXkFqcGc@._V1_.jpg" group-title="Peliculas",Rescate Implacable (2025)
