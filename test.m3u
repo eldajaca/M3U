@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Canales 24/7 tvg-name="Canales 24/7" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/43067158-0630-4865-a07a-a88ba2946377/compose?aspectRatio=1.78&format=webp&width=1200" group-title="Canales 24/7",Padre de Familia 24/7 
+http://user.tvcluboficial.com/live/m/m/416.m3u8
+#EXTINF:-1 tvg-id="Canales 24/7 tvg-name="Canales 24/7" tvg-logo="https://occ-0-8407-90.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAABdIFYfkylotuQsosH1WlGXHoouJSR59IKXL-xHz1EBGnDra3h7PiJ0E7Oe8wZzKk0hpHSKQGHi7VrGSs64kozAD0u9dXXKO-T4SM.jpg?r=33e" group-title="Canales 24/7",Naruto 24/7 
+http://user.tvcluboficial.com/live/m/m/523.m3u8
+#EXTINF:-1 tvg-id="Canales 24/7 tvg-name="Canales 24/7" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/da6c5250-ffe6-48ce-86be-1633940ee568/compose?aspectRatio=1.78&format=webp&width=1200" group-title="Canales 24/7",Los Simpsons 24/7 
+http://user.tvcluboficial.com/live/m/m/357.m3u8
+#EXTINF:-1 tvg-id="Canales 24/7 tvg-name="Canales 24/7" tvg-logo="https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/de3488b1-a8ab-4f34-8230-0a465a79ae86/9decb180-53fd-11ee-a666-0a509673f275?host=wbd-images.prod-vod.h264.io&partner=beamcom" group-title="Canales 24/7",Looney Tunes 24/7 
+http://user.tvcluboficial.com/live/m/m/524.m3u8
 #EXTINF:-1 tvg-id="Canales 24/7 tvg-name="Canales 24/7" tvg-logo="https://lascebrassalen.com/wp-content/uploads/2020/09/La-pantera-rosa-The-Pink-Panther.jpg" group-title="Canales 24/7",La Pantera Rosa 24/7 
 http://user.tvcluboficial.com/live/m/m/671.m3u8
 #EXTINF:-1 tvg-id="Canales 24/7 tvg-name="Canales 24/7" tvg-logo="https://larepublica.cronosmedia.glr.pe/migration/images/TOLKNTEWAFHKXEJAYECLRYQYW4.jpg" group-title="Canales 24/7",Oye Arnold 24/7 
