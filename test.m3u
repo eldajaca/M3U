@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Canales 24/7 tvg-name="Canales 24/7" tvg-logo="https://lascebrassalen.com/wp-content/uploads/2020/09/La-pantera-rosa-The-Pink-Panther.jpg" group-title="Canales 24/7",La Pantera Rosa 24/7 
+http://user.tvcluboficial.com/live/m/m/671.m3u8
+#EXTINF:-1 tvg-id="Canales 24/7 tvg-name="Canales 24/7" tvg-logo="https://larepublica.cronosmedia.glr.pe/migration/images/TOLKNTEWAFHKXEJAYECLRYQYW4.jpg" group-title="Canales 24/7",Oye Arnold 24/7 
+http://user.tvcluboficial.com/live/m/m/522.m3u8
 #EXTINF:-1 tvg-id="Canales 24/7 tvg-name="Canales 24/7" tvg-logo="https://cdn-3.expansion.mx/dims4/default/45b706c/2147483647/strip/true/crop/620x310+0+0/resize/1200x600!/format/webp/quality/60/?url=https%3A%2F%2Fcherry-brightspot.s3.amazonaws.com%2Fmedia%2F2016%2F07%2F30%2Fgame.jpg" group-title="Canales 24/7",Game Of Thrones 24/7 
 http://user.tvcluboficial.com/live/m/m/515.m3u8
 #EXTINF:-1 tvg-id="Canales 24/7 tvg-name="Canales 24/7" tvg-logo="https://i.ytimg.com/vi/yOLKIBYB39Q/sddefault.jpg" group-title="Canales 24/7",El Gallo Claudio 24/7 
