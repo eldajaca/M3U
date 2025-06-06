@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Canales 24/7.ae" tvg-name="Canales 24/7" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/IyCoZfpUXqx2JznUFykFgw/1200x675.jpg" group-title="Canales 24/7",El Contador 2 (2025)
-https://cinemaquepao.glitch.me/8713286233240/El%20Contador%202%20(2025).mp4
+#EXTINF:-1 tvg-id="Canales 24/7 tvg-name="Canales 24/7" tvg-logo="https://estaticos-cdn.prensaiberica.es/clip/3d10b201-b51e-4ffa-aabb-e2565420336f_16-9-aspect-ratio_default_0.jpg" group-title="Por Tiempo Limitado",Caso Cerrado 24/7 
+http://user.tvcluboficial.com/live/m/m/907.m3u8
+#EXTINF:-1 tvg-id="Canales 24/7 tvg-name="Canales 24/7" tvg-logo="https://occ-0-8407-92.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAABbVYfxauaLQ43-5MV84VPBtDOWcLrjSCo-Olm_bM-Qy5yJTXisP1kSaj7_DqnSfU9982X2Ilm0b3hbd3dNqXMNQ_tACFIqxYGTL1.jpg?r=e06" group-title="Canales 24/7", Yugioh 24/7 
+http://user.tvcluboficial.com/live/m/m/664.m3u8
+#EXTINF:-1 tvg-id="Canales 24/7 tvg-name="Canales 24/7" tvg-logo="https://wallpapers.com/images/featured/tom-y-jerry-2f5fbl2k3wwi31aq.jpg" group-title="Canales 24/7", Tom y Jerry 24/7 
+http://user.tvcluboficial.com/live/m/m/421.m3u8
 #EXTINF:-1 tvg-id="Peliculas.ae" tvg-name="Peliculas" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/IyCoZfpUXqx2JznUFykFgw/1200x675.jpg" group-title="Peliculas",El Contador 2 (2025)
 https://cinemaquepao.glitch.me/8713286233240/El%20Contador%202%20(2025).mp4
 #EXTINF:-1 tvg-id="Peliculas.ae" tvg-name="Peliculas" tvg-logo="https://imagenes.elpais.com/resizer/v2/SYBKPBQZJFDSLA2Y5ODG6O2XLM.jpg?auth=bac4ea4084a858f9afbdca9b774d5f4823f8ec7236425f2a094ecb0efdbca2d2&width=1960&height=1470&smart=true" group-title="Peliculas",Amenaza en el Aire (2025)
@@ -25,9 +29,3 @@ https://cinemaquepao.glitch.me/7665314213016/La%20Fuente%20De%20La%20Juventud%20
 https://cinemaquepao.glitch.me/8507127803032/Better%20man:%20La%20historia%20de%20Robbie%20Williams%20(2024).mp4
 #EXTINF:-1 tvg-id="Por Tiempo Limitado tvg-name="Por Tiempo Limitado" tvg-logo="https://image.tmdb.org/t/p/w500/oVQqY2Ekualp1aKHsXrJ8XY6oTv.jpg" group-title="Por Tiempo Limitado",Rick y Morty S08E02 
 https://82psw98llfa.cdn-centaurus.com/hls2/01/10548/0rajkrkpk0lq_h/index-v1-a1.m3u8?t=gJU4_bfVQv4mMC8HtzO0ook0vBY-V4v6ET-UT6iE-OU&s=1749208429&e=129600&f=52740866&srv=kyw0p84c&i=0.4&sp=500&p1=kyw0p84c&p2=kyw0p84c&asn=21826
-#EXTINF:-1 tvg-id="Por Tiempo Limitado tvg-name="Por Tiempo Limitado" tvg-logo="https://estaticos-cdn.prensaiberica.es/clip/3d10b201-b51e-4ffa-aabb-e2565420336f_16-9-aspect-ratio_default_0.jpg" group-title="Por Tiempo Limitado",Caso Cerrado 24/7 
-http://user.tvcluboficial.com/live/m/m/907.m3u8
-#EXTINF:-1 tvg-id="Por Tiempo Limitado tvg-name="Por Tiempo Limitado" tvg-logo="https://occ-0-8407-92.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAABbVYfxauaLQ43-5MV84VPBtDOWcLrjSCo-Olm_bM-Qy5yJTXisP1kSaj7_DqnSfU9982X2Ilm0b3hbd3dNqXMNQ_tACFIqxYGTL1.jpg?r=e06" group-title="Por Tiempo Limitado", Yugioh 24/7 
-http://user.tvcluboficial.com/live/m/m/664.m3u8
-#EXTINF:-1 tvg-id="Por Tiempo Limitado tvg-name="Por Tiempo Limitado" tvg-logo="https://wallpapers.com/images/featured/tom-y-jerry-2f5fbl2k3wwi31aq.jpg" group-title="Por Tiempo Limitado", Tom y Jerry 24/7 
-http://user.tvcluboficial.com/live/m/m/421.m3u8
