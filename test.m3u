@@ -9,6 +9,89 @@ https://cinemaquepao.glitch.me/8782005709976/Predator%20Asesino%20de%20asesinos%
 https://r63hfpdmodtc.cdn-centaurus.com/hls2/01/10569/47pd8n0k7525_h/master.m3u8?t=QP3aa9o0VzZgxGp-hdKA7X0DBT7pv0lSo8OZJ8jAegE&s=1749399193&e=129600&f=52848941&srv=4qcb4nss3&i=0.4&sp=500&p1=4qcb4nss3&p2=4qcb4nss3&asn=21826
 #EXTINF:-1 tvg-id="Canales Populares tvg-name="Canales Populares" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Canales Populares",ESPN 
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/ESPN/40-hls/live-media.m3u8
+
+#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/0jQ7q3J/espn2-16-9.png" group-title="Canales Populares",ESPN 2
+https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/ESPN2/40-hls/live-media.m3u8
+
+#EXTINF:-1 tvg-id="ESPN3" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/4W1n6X3/espn3-16-9.png" group-title="Canales Populares",ESPN 3
+https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/ESPN3/40-hls/live-media.m3u8
+
+#EXTINF:-1 tvg-id="CanalEstrellas" tvg-name="Canal de las estrellas" tvg-logo="https://i.ibb.co/8X8zQ6k/las-estrellas-16-9.png" group-title="Canales Populares",Canal de las estrellas
+http://user.tvcluboficial.com/live/m/m/411.m3u8
+
+#EXTINF:-1 tvg-id="DistritoComedia" tvg-name="Distrito Comedia" tvg-logo="https://i.ibb.co/6nL4QYk/distrito-comedia-16-9.png" group-title="Canales Populares",Distrito Comedia
+https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/DISTRITOCOMEDIA/20-hls/live-media.m3u8
+
+#EXTINF:-1 tvg-id="RCN" tvg-name="RCN" tvg-logo="https://i.ibb.co/8xJz0Q0/rcn-16-9.png" group-title="Canales Populares",RCN
+https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/RCN/20-hls/live-media.m3u8
+
+#EXTINF:-1 tvg-id="TelemundoInt" tvg-name="Telemundo Internacional" tvg-logo="https://i.ibb.co/4W4zq7J/telemundo-16-9.png" group-title="Canales Populares",Telemundo Internacional
+https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/TELEMUNDO/40-hls/live-media.m3u8
+
+#EXTINF:-1 tvg-id="VenevisionPlus" tvg-name="Venevisión Plus" tvg-logo="https://i.ibb.co/6rXWJ3F/venevisi-n-plus-16-9.png" group-title="Canales Populares",Venevisión Plus
+https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/VEPLUS/20-hls/live-media.m3u8
+
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://i.ibb.co/0Y8L0nX/mtv-16-9.png" group-title="Canales Populares",MTV
+https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/MTV/20-hls/live-media.m3u8
+
+#EXTINF:-1 tvg-id="TeleHit" tvg-name="TeleHit" tvg-logo="https://i.ibb.co/9HqWQy0/telehit-16-9.png" group-title="Canales Populares",TeleHit
+https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/TELEHIT/20-hls/live-media.m3u8
+
+#EXTINF:-1 tvg-id="TeleMusica" tvg-name="Tele música" tvg-logo="https://i.ibb.co/0Y8L0nX/mtv-16-9.png" group-title="Canales Populares",Tele música
+https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/TELEHITMUSICA/20-hls/live-media.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/0QY1ZJX/cartoon-network-16-9.png" group-title="Canales Populares",Cartoon Network
+http://user.tvcluboficial.com/live/m/m/17.m3u8
+
+#EXTINF:-1 tvg-id="Toocast" tvg-name="Toocast" tvg-logo="https://i.ibb.co/6nL4QYk/distrito-comedia-16-9.png" group-title="Canales Populares",Toocast
+http://user.tvcluboficial.com/live/m/m/95.m3u8
+
+#EXTINF:-1 tvg-id="Nick" tvg-name="Nick" tvg-logo="https://i.ibb.co/0jQ7q3J/espn2-16-9.png" group-title="Canales Populares",Nick
+http://user.tvcluboficial.com/live/m/m/78.m3u8
+
+#EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito" tvg-logo="https://i.ibb.co/0QY1ZJX/cartoon-network-16-9.png" group-title="Canales Populares",Cartoonito
+http://user.tvcluboficial.com/live/m/m/11.m3u8
+
+#EXTINF:-1 tvg-id="NickJunior" tvg-name="Nick Junior" tvg-logo="https://i.ibb.co/0jQ7q3J/espn2-16-9.png" group-title="Canales Populares",Nick Junior
+http://user.tvcluboficial.com/live/m/m/79.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwim" tvg-name="Adult Swim" tvg-logo="https://i.ibb.co/0Y8L0nX/mtv-16-9.png" group-title="Canales Populares",Adult Swim
+http://104.238.205.28:8989/278391_.m3u8
+
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN en Español" tvg-logo="https://i.ibb.co/4W4zq7J/telemundo-16-9.png" group-title="Canales Populares",CNN en Español
+http://user.tvcluboficial.com/live/m/m/136.m3u8
+
+#EXTINF:-1 tvg-id="IDDiscovery" tvg-name="ID Discovery" tvg-logo="https://i.ibb.co/8xJz0Q0/rcn-16-9.png" group-title="Canales Populares",ID Discovery
+http://user.tvcluboficial.com/live/m/m/68.m3u8
+
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery Channel" tvg-logo="https://i.ibb.co/8xJz0Q0/rcn-16-9.png" group-title="Canales Populares",Discovery Channel
+http://user.tvcluboficial.com/live/m/m/22.m3u8
+
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="NatGeo" tvg-logo="https://i.ibb.co/8xJz0Q0/rcn-16-9.png" group-title="Canales Populares",NatGeo
+http://user.tvcluboficial.com/live/m/m/76.m3u8
+
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://i.ibb.co/8xJz0Q0/rcn-16-9.png" group-title="Canales Populares",History
+http://user.tvcluboficial.com/live/m/m/67.m3u8
+
+#EXTINF:-1 tvg-id="History2" tvg-name="History 2" tvg-logo="https://i.ibb.co/8xJz0Q0/rcn-16-9.png" group-title="Canales Populares",History 2
+http://user.tvcluboficial.com/live/m/m/61.m3u8
+
+#EXTINF:-1 tvg-id="Star" tvg-name="Star" tvg-logo="https://i.ibb.co/8xJz0Q0/rcn-16-9.png" group-title="Canales Populares",Star
+http://user.tvcluboficial.com/live/m/m/45.m3u8
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://i.ibb.co/8xJz0Q0/rcn-16-9.png" group-title="Canales Populares",TNT
+https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/TNT/40-hls/live-media.m3u8
+
+#EXTINF:-1 tvg-id="GoldenEdge" tvg-name="Golden Edge" tvg-logo="https://i.ibb.co/8xJz0Q0/rcn-16-9.png" group-title="Canales Populares",Golden Edge
+https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/GOLDENEDGE/40-hls/live-media.m3u8
+
+#EXTINF:-1 tvg-id="HBOPlus" tvg-name="HBO+" tvg-logo="https://i.ibb.co/8xJz0Q0/rcn-16-9.png" group-title="Canales Populares",HBO+
+http://104.238.222.251:8989/278489_.m3u8
+
+#EXTINF:-1 tvg-id="HBOFamily" tvg-name="HBO Family" tvg-logo="https://i.ibb.co/8xJz0Q0/rcn-16-9.png" group-title="Canales Populares",HBO Family
+http://104.238.222.251:8989/278495_.m3u8
+
+
 #EXTINF:-1 tvg-id="BabyTV" tvg-name="Baby TV" tvg-logo="https://m.media-amazon.com/images/I/615y0GGe9pL.png" group-title="Canales Populares" tvg-description="Canal infantil con contenido educativo y entretenimiento para bebés y niños pequeños.",Baby TV
 http://user.tvcluboficial.com/live/m/m/7.m3u8
 #EXTINF:-1 tvg-id="Canales 24/7 tvg-name="Canales 24/7" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/43067158-0630-4865-a07a-a88ba2946377/compose?aspectRatio=1.78&format=webp&width=1200" group-title="Canales 24/7",Padre de Familia 24/7 
