@@ -118,6 +118,62 @@ http://user.tvcluboficial.com/live/m/m/518.m3u8
 http://user.tvcluboficial.com/live/m/m/907.m3u8
 #EXTINF:-1 tvg-id="Canales 24/7 tvg-name="Canales 24/7" tvg-logo="https://occ-0-8407-92.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAABbVYfxauaLQ43-5MV84VPBtDOWcLrjSCo-Olm_bM-Qy5yJTXisP1kSaj7_DqnSfU9982X2Ilm0b3hbd3dNqXMNQ_tACFIqxYGTL1.jpg?r=e06" group-title="Canales 24/7", Yugioh 24/7 
 http://user.tvcluboficial.com/live/m/m/664.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canales 24/7",Alf 24/7
+http://user.tvcluboficial.com/live/m/m/426.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Canales 24/7",Cine Acción
+http://user.tvcluboficial.com/live/m/m/990.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Canales 24/7",Cine Acción 2
+http://user.tvcluboficial.com/live/m/m/1022.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Canales 24/7",Cine Sagas
+http://user.tvcluboficial.com/live/m/m/707.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Canales 24/7",Cine Comedia
+http://user.tvcluboficial.com/live/m/m/914.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Canales 24/7",Cine Ficción
+http://user.tvcluboficial.com/live/m/m/709.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Canales 24/7",Cine Ficción 2
+http://user.tvcluboficial.com/live/m/m/712.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Canales 24/7",Cine Infantil
+http://user.tvcluboficial.com/live/m/m/687.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Canales 24/7",Cine Infantil 2
+http://user.tvcluboficial.com/live/m/m/702.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Canales 24/7",Cine Infantil 3
+http://user.tvcluboficial.com/live/m/m/694.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Canales 24/7",Cine Infantil 4
+http://user.tvcluboficial.com/live/m/m/703.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Canales 24/7",Cine Marvel
+http://user.tvcluboficial.com/live/m/m/697.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Canales 24/7",Cine Marvel 2
+http://user.tvcluboficial.com/live/m/m/701.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Canales 24/7",Cine Romance
+http://user.tvcluboficial.com/live/m/m/689.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Canales 24/7",Cine Romance 2
+http://user.tvcluboficial.com/live/m/m/705.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Canales 24/7",Cine Terror
+http://user.tvcluboficial.com/live/m/m/693.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Canales 24/7",Cine Terror 2
+http://user.tvcluboficial.com/live/m/m/704.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Canales 24/7",Cine Zombies
+http://user.tvcluboficial.com/live/m/m/688.m3u8
+
 #EXTINF:-1 tvg-id="Canales 24/7 tvg-name="Canales 24/7" tvg-logo="https://wallpapers.com/images/featured/tom-y-jerry-2f5fbl2k3wwi31aq.jpg" group-title="Canales 24/7", Tom y Jerry 24/7 
 http://user.tvcluboficial.com/live/m/m/421.m3u8
 #EXTINF:-1 tvg-id="Peliculas.ae" tvg-name="Peliculas" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/IyCoZfpUXqx2JznUFykFgw/1200x675.jpg" group-title="Peliculas",El Contador 2 (2025)
