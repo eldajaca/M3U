@@ -1,13 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Peliculas.ae" tvg-name="Peliculas" tvg-logo="https://outloudculture.com/wp-content/uploads/2025/05/aaa.jpg.webp"group-title="Peliculas",Harta (2025) 
+#EXTINF:-1 tvg-id="Peliculas.ae" tvg-name="Peliculas" tvg-logo="https://outloudculture.com/wp-content/uploads/2025/05/aaa.jpg.webp"group-title="Peliculas",Harta (2025)
 https://cinemaquepao.glitch.me/8816365448344/Straw%20-%202025.mp4
-#EXTINF:-1 tvg-id="Peliculas.ae" tvg-name="Peliculas" tvg-logo="https://i.ytimg.com/vi/yFrspGobLAc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDpJ2PN58rB5rw68yx2iSHBMJsLeA"group-title="Peliculas",Depredador Cazador de asesinos (2025) 
+#EXTINF:-1 tvg-id="Peliculas.ae" tvg-name="Peliculas" tvg-logo="https://i.ytimg.com/vi/yFrspGobLAc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDpJ2PN58rB5rw68yx2iSHBMJsLeA"group-title="Peliculas",Depredador Cazador de asesinos (2025)
 https://cinemaquepao.glitch.me/8782005709976/Predator%20Asesino%20de%20asesinos%20-%202025.mp4
+
+#EXTINF:-1 tvg-id="Por Tiempo Limitado tvg-name="Por Tiempo Limitado" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/9ec9992b-d426-4ba5-894e-5dbcf7c82951/compose?aspectRatio=1.78&format=webp&width=1200" group-title="Por Tiempo Limitado",El Amateur: Operación Venganza
+(2025)
+https://us1.akirabox.com/uploads/users/lvgKGxXnG8Qn/coSytvIW9QoFudWrZde-El%20Amateur%20Operacion%20Venganza%20%282025%29%20WEB-DL%201080p%20Latino.mkv?access=wdhZHZysWMyZXYyQ2cnBTe5dWa0cTcxF3aidTb
+
 
 #EXTINF:-1 tvg-id="Por Tiempo Limitado tvg-name="Por Tiempo Limitado" tvg-logo="https://wallpapers.com/images/hd/rick-and-morty-pictures-b3e2pq02sb2fuvy3.jpg" group-title="Por Tiempo Limitado",Rick y Morty S08E03
 https://eu1.akirabox.com/uploads/users/DLK0G1RYm917/coeU68UBokQLMHefOde-Rick%20y%20Morty%20S08E03%20WEB-DL%201080p%20Latino.mkv?access=gahJGZttmMyZXYyQ2cjZGZjJGOhN2a2FXZilWb
 
-#EXTINF:-1 tvg-id="Canales Populares tvg-name="Canales Populares" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Canales Populares",ESPN 
+#EXTINF:-1 tvg-id="Canales Populares tvg-name="Canales Populares" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Canales Populares",ESPN
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/ESPN/40-hls/live-media.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2" tvg-logo="https://static.wikia.nocookie.net/espn/images/7/79/ESPN2-Logo-D795.png/revision/latest/scale-to-width-down/284?cb=20130819193813" group-title="Canales Populares",ESPN 2
@@ -97,29 +102,29 @@ http://104.238.222.251:8989/278489_.m3u8
 #EXTINF:-1 tvg-id="HBOFamily" tvg-name="HBO Family" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-3k6SIkRBv3yzOAtT-W1OOm0bODd1c01Eiw&s" group-title="Canales Populares",HBO Family
 http://104.238.222.251:8989/278495_.m3u8
 
-#EXTINF:-1 tvg-id="Canales 24/7 tvg-name="Canales 24/7" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/43067158-0630-4865-a07a-a88ba2946377/compose?aspectRatio=1.78&format=webp&width=1200" group-title="Canales 24/7",Padre de Familia 24/7 
+#EXTINF:-1 tvg-id="Canales 24/7 tvg-name="Canales 24/7" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/43067158-0630-4865-a07a-a88ba2946377/compose?aspectRatio=1.78&format=webp&width=1200" group-title="Canales 24/7",Padre de Familia 24/7
 http://user.tvcluboficial.com/live/m/m/416.m3u8
-#EXTINF:-1 tvg-id="Canales 24/7 tvg-name="Canales 24/7" tvg-logo="https://occ-0-8407-90.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAABdIFYfkylotuQsosH1WlGXHoouJSR59IKXL-xHz1EBGnDra3h7PiJ0E7Oe8wZzKk0hpHSKQGHi7VrGSs64kozAD0u9dXXKO-T4SM.jpg?r=33e" group-title="Canales 24/7",Naruto 24/7 
+#EXTINF:-1 tvg-id="Canales 24/7 tvg-name="Canales 24/7" tvg-logo="https://occ-0-8407-90.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAABdIFYfkylotuQsosH1WlGXHoouJSR59IKXL-xHz1EBGnDra3h7PiJ0E7Oe8wZzKk0hpHSKQGHi7VrGSs64kozAD0u9dXXKO-T4SM.jpg?r=33e" group-title="Canales 24/7",Naruto 24/7
 http://user.tvcluboficial.com/live/m/m/523.m3u8
-#EXTINF:-1 tvg-id="Canales 24/7 tvg-name="Canales 24/7" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/da6c5250-ffe6-48ce-86be-1633940ee568/compose?aspectRatio=1.78&format=webp&width=1200" group-title="Canales 24/7",Los Simpsons 24/7 
+#EXTINF:-1 tvg-id="Canales 24/7 tvg-name="Canales 24/7" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/da6c5250-ffe6-48ce-86be-1633940ee568/compose?aspectRatio=1.78&format=webp&width=1200" group-title="Canales 24/7",Los Simpsons 24/7
 http://user.tvcluboficial.com/live/m/m/357.m3u8
-#EXTINF:-1 tvg-id="Canales 24/7 tvg-name="Canales 24/7" tvg-logo="https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/de3488b1-a8ab-4f34-8230-0a465a79ae86/9decb180-53fd-11ee-a666-0a509673f275?host=wbd-images.prod-vod.h264.io&partner=beamcom" group-title="Canales 24/7",Looney Tunes 24/7 
+#EXTINF:-1 tvg-id="Canales 24/7 tvg-name="Canales 24/7" tvg-logo="https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/de3488b1-a8ab-4f34-8230-0a465a79ae86/9decb180-53fd-11ee-a666-0a509673f275?host=wbd-images.prod-vod.h264.io&partner=beamcom" group-title="Canales 24/7",Looney Tunes 24/7
 http://user.tvcluboficial.com/live/m/m/524.m3u8
-#EXTINF:-1 tvg-id="Canales 24/7 tvg-name="Canales 24/7" tvg-logo="https://lascebrassalen.com/wp-content/uploads/2020/09/La-pantera-rosa-The-Pink-Panther.jpg" group-title="Canales 24/7",La Pantera Rosa 24/7 
+#EXTINF:-1 tvg-id="Canales 24/7 tvg-name="Canales 24/7" tvg-logo="https://lascebrassalen.com/wp-content/uploads/2020/09/La-pantera-rosa-The-Pink-Panther.jpg" group-title="Canales 24/7",La Pantera Rosa 24/7
 http://user.tvcluboficial.com/live/m/m/671.m3u8
-#EXTINF:-1 tvg-id="Canales 24/7 tvg-name="Canales 24/7" tvg-logo="https://larepublica.cronosmedia.glr.pe/migration/images/TOLKNTEWAFHKXEJAYECLRYQYW4.jpg" group-title="Canales 24/7",Oye Arnold 24/7 
+#EXTINF:-1 tvg-id="Canales 24/7 tvg-name="Canales 24/7" tvg-logo="https://larepublica.cronosmedia.glr.pe/migration/images/TOLKNTEWAFHKXEJAYECLRYQYW4.jpg" group-title="Canales 24/7",Oye Arnold 24/7
 http://user.tvcluboficial.com/live/m/m/522.m3u8
-#EXTINF:-1 tvg-id="Canales 24/7 tvg-name="Canales 24/7" tvg-logo="https://cdn-3.expansion.mx/dims4/default/45b706c/2147483647/strip/true/crop/620x310+0+0/resize/1200x600!/format/webp/quality/60/?url=https%3A%2F%2Fcherry-brightspot.s3.amazonaws.com%2Fmedia%2F2016%2F07%2F30%2Fgame.jpg" group-title="Canales 24/7",Game Of Thrones 24/7 
+#EXTINF:-1 tvg-id="Canales 24/7 tvg-name="Canales 24/7" tvg-logo="https://cdn-3.expansion.mx/dims4/default/45b706c/2147483647/strip/true/crop/620x310+0+0/resize/1200x600!/format/webp/quality/60/?url=https%3A%2F%2Fcherry-brightspot.s3.amazonaws.com%2Fmedia%2F2016%2F07%2F30%2Fgame.jpg" group-title="Canales 24/7",Game Of Thrones 24/7
 http://user.tvcluboficial.com/live/m/m/515.m3u8
-#EXTINF:-1 tvg-id="Canales 24/7 tvg-name="Canales 24/7" tvg-logo="https://i.ytimg.com/vi/yOLKIBYB39Q/sddefault.jpg" group-title="Canales 24/7",El Gallo Claudio 24/7 
+#EXTINF:-1 tvg-id="Canales 24/7 tvg-name="Canales 24/7" tvg-logo="https://i.ytimg.com/vi/yOLKIBYB39Q/sddefault.jpg" group-title="Canales 24/7",El Gallo Claudio 24/7
 http://user.tvcluboficial.com/live/m/m/845.m3u8
-#EXTINF:-1 tvg-id="Canales 24/7 tvg-name="Canales 24/7" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/478dcc201e2142fd80047a3d0101ae2eb6e53fa8101c1324ec024b78e17b0a8b.jpg" group-title="Canales 24/7",Bob Esponja 24/7 
+#EXTINF:-1 tvg-id="Canales 24/7 tvg-name="Canales 24/7" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/478dcc201e2142fd80047a3d0101ae2eb6e53fa8101c1324ec024b78e17b0a8b.jpg" group-title="Canales 24/7",Bob Esponja 24/7
 http://user.tvcluboficial.com/live/m/m/518.m3u8
-#EXTINF:-1 tvg-id="Canales 24/7 tvg-name="Canales 24/7" tvg-logo="https://estaticos-cdn.prensaiberica.es/clip/3d10b201-b51e-4ffa-aabb-e2565420336f_16-9-aspect-ratio_default_0.jpg" group-title="Canales 24/7",Caso Cerrado 24/7 
+#EXTINF:-1 tvg-id="Canales 24/7 tvg-name="Canales 24/7" tvg-logo="https://estaticos-cdn.prensaiberica.es/clip/3d10b201-b51e-4ffa-aabb-e2565420336f_16-9-aspect-ratio_default_0.jpg" group-title="Canales 24/7",Caso Cerrado 24/7
 http://user.tvcluboficial.com/live/m/m/907.m3u8
-#EXTINF:-1 tvg-id="Canales 24/7 tvg-name="Canales 24/7" tvg-logo="https://occ-0-8407-92.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAABbVYfxauaLQ43-5MV84VPBtDOWcLrjSCo-Olm_bM-Qy5yJTXisP1kSaj7_DqnSfU9982X2Ilm0b3hbd3dNqXMNQ_tACFIqxYGTL1.jpg?r=e06" group-title="Canales 24/7", Yugioh 24/7 
+#EXTINF:-1 tvg-id="Canales 24/7 tvg-name="Canales 24/7" tvg-logo="https://occ-0-8407-92.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAABbVYfxauaLQ43-5MV84VPBtDOWcLrjSCo-Olm_bM-Qy5yJTXisP1kSaj7_DqnSfU9982X2Ilm0b3hbd3dNqXMNQ_tACFIqxYGTL1.jpg?r=e06" group-title="Canales 24/7", Yugioh 24/7
 http://user.tvcluboficial.com/live/m/m/664.m3u8
-#EXTINF:-1 tvg-id="Canales 24/7 tvg-name="Canales 24/7" tvg-logo="https://wallpapers.com/images/featured/tom-y-jerry-2f5fbl2k3wwi31aq.jpg" group-title="Canales 24/7", Tom y Jerry 24/7 
+#EXTINF:-1 tvg-id="Canales 24/7 tvg-name="Canales 24/7" tvg-logo="https://wallpapers.com/images/featured/tom-y-jerry-2f5fbl2k3wwi31aq.jpg" group-title="Canales 24/7", Tom y Jerry 24/7
 http://user.tvcluboficial.com/live/m/m/421.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/9c56a46f7bd4303ab33b7cf7cc6a7f45fa52030978f3cdbff18ef02b5716905c._SX1080_FMjpg_.jpg" group-title="Canales 24/7",Alf 24/7
 http://user.tvcluboficial.com/live/m/m/426.m3u8
@@ -189,19 +194,4 @@ https://cinemaquepao.glitch.me/7923012250776/El%20Rey%20de%20Reyes%20(2025).mp4
 https://cinemaquepao.glitch.me/7888652512408/Lilo%20y%20Stitch%20(2025).mp4
 #EXTINF:-1 tvg-id="Peliculas.ae" tvg-name="Peliculas" tvg-logo="https://image.tmdb.org/t/p/original/1526ZPReSEbVi0sbe8aiYWlqvyN.jpg" group-title="Peliculas",Una Película de Minecraft  (2025)
 https://cinemaquepao.glitch.me/7699673951384/Una%20pel%C3%ADcula%20de%20Minecraft%20(2025).mp4
-#EXTINF:-1 tvg-id="Peliculas.ae" tvg-name="Peliculas" tvg-logo="https://revistayume.com/wp-content/uploads/2025/05/Captura-de-pantalla-2025-05-03-013008-1296x700.jpg" group-title="Peliculas",Until Dawn: Noche de terror (2025)
-https://cinemaquepao.glitch.me/7596594736280/Until%20Dawn%20Noche%20de%20terror%20(2025).mp4
-#EXTINF:-1 tvg-id="Peliculas.ae" tvg-name="Peliculas" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/aae55bd09633a9c4a12a97f4b1dc624d40bd5c83321aa94adcbb3e7c94086ad4.jpg" group-title="Peliculas",Las Aventuras de Dog Man (2025)
-https://cinemaquepao.glitch.me/8610207018136/Las%20aventuras%20de%20Dog%20Man%20(2025)%20@JuAnChO1304.mp4
-
-#EXTINF:-1 tvg-id="Peliculas.ae" tvg-name="Peliculas" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/6595bb885a5d875b3436a966d2b58aaa5ab71e72464df9cafee2c38f46ad4951.jpg" group-title="Peliculas",El Jardinero (2025)
-https://cinemaquepao.glitch.me/8988164140184/El%20jardinero%20(2025).mp4
-
-
-
-#EXTINF:-1 tvg-id="Peliculas.ae" tvg-name="Peliculas" tvg-logo="https://www.apple.com/es/tv-pr/shows-and-films/f/fountain-of-youth/images/show-home-graphic-header/key-art-01/4x1/Apple_TV_Fountain_of_Youth_key_art_graphic_header_4_1_show_home.jpg.og.jpg?1745506870954" group-title="Peliculas",La fuente de la Eterna Juventud (2025)
-https://cinemaquepao.glitch.me/7665314213016/La%20Fuente%20De%20La%20Juventud%20(2025).mp4
-#EXTINF:-1 tvg-id="Peliculas.ae" tvg-name="Peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTg2YTMyNTktNTc5Yy00MTQzLWE0YTAtYWZiNTBjNDc0OGVlXkEyXkFqcGc@._V1_.jpg" group-title="Peliculas",Plankton: La Película (2025)
-https://cinemaquepao.glitch.me/8850725186712/Plankton%20La%20pel%C3%ADcula%20-%202025.mp4
-#EXTINF:-1 tvg-id="Peliculas.ae" tvg-name="Peliculas" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/799b1fc6344dfecbd3b3a645404765807f54c73d39130fbc852eb0a52245e707.jpg" group-title="Peliculas",Better Man (2024)
-https://cinemaquepao.glitch.me/8507127803032/Better%20man:%20La%20historia%20de%20Robbie%20Williams%20(2024).mp4
+#EXTINF:-1 tvg-id="Peliculas.ae" tvg-name="Peliculas" tvg-logo="https://revistayume.com/wp-content/uploads/2025/05/Cap
