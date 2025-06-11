@@ -113,30 +113,12 @@ http://user.tvcluboficial.com/live/m/m/664.m3u8
 http://user.tvcluboficial.com/live/m/m/421.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/9c56a46f7bd4303ab33b7cf7cc6a7f45fa52030978f3cdbff18ef02b5716905c._SX1080_FMjpg_.jpg" group-title="Canales 24/7",Alf 24/7
 http://user.tvcluboficial.com/live/m/m/426.m3u8
-#EXTINF:-1 tvg-logo=" https://www.elcolombiano.com/blogs/cinefagos/wp-content/uploads/2012/10/indestructibles.jpg " group-title="Canales 24/7",Cine Acción
+
+#EXTINF:-1 tvg-logo="https://www.elcolombiano.com/blogs/cinefagos/wp-content/uploads/2012/10/indestructibles.jpg" group-title="Cine 24/7",Cine Acción
 http://user.tvcluboficial.com/live/m/m/990.m3u8
-#EXTINF:-1 tvg-logo=" https://i.blogs.es/4755f7/accion/1366_2000.jpeg " group-title="Canales 24/7",Cine Acción 2
+
+#EXTINF:-1 tvg-logo="https://i.blogs.es/4755f7/accion/1366_2000.jpeg" group-title="Cine 24/7",Cine Acción 2
 http://user.tvcluboficial.com/live/m/m/1022.m3u8
-#EXTINF:-1 tvg-logo=" https://www.alvarocuevas.es/wp-content/uploads/2021/01/Las-mejores-sagas-de-peliculas-1080x675.jpg " group-title="Canales 24/7",Cine Sagas
-http://user.tvcluboficial.com/live/m/m/707.m3u8
-#EXTINF:-1 tvg-logo=" https://i.ytimg.com/vi/HxqPWUqwn8U/maxresdefault.jpg " group-title="Canales 24/7",Cine Comedia
-http://user.tvcluboficial.com/live/m/m/914.m3u8
-#EXTINF:-1 tvg-logo=" https://cinepremiere.com.mx/wp-content/uploads/2024/04/proximos-estrenos-de-ciencia-ficcion-900x506.jpg " group-title="Canales 24/7",Cine Ficción
-http://user.tvcluboficial.com/live/m/m/709.m3u8
-#EXTINF:-1 tvg-logo=" https://xploramusica.com/wp-content/uploads/2023/05/Ciencia-Ficcion-2.jpg " group-title="Canales 24/7",Cine Ficción 2
-http://user.tvcluboficial.com/live/m/m/712.m3u8
-#EXTINF:-1 tvg-logo=" https://decoratel.com/wp-content/uploads/2020/04/alzador-infantil-en-cines.jpg " group-title="Canales 24/7",Cine Infantil
-http://user.tvcluboficial.com/live/m/m/687.m3u8
-#EXTINF:-1 tvg-logo=" https://i.pinimg.com/736x/0a/d5/fb/0ad5fb13ae0ad6d8b00ba5eaace6359d.jpg " group-title="Canales 24/7",Cine Infantil 2
-http://user.tvcluboficial.com/live/m/m/702.m3u8
-#EXTINF:-1 tvg-logo=" https://img2.rtve.es/p/cine-en-familia_1001122.jpg?imgProgApi=imgPortada2&w=800&crop=no&ts=01744269375102 " group-title="Canales 24/7",Cine Infantil 3
-http://user.tvcluboficial.com/live/m/m/694.m3u8
-#EXTINF:-1 tvg-logo=" https://cczonaeste.com/wp-content/uploads/2023/11/Diseno-sin-titulo-1024x576.png " group-title="Canales 24/7",Cine Infantil 4
-http://user.tvcluboficial.com/live/m/m/703.m3u8
-#EXTINF:-1 tvg-logo=" https://i.blogs.es/94f9a8/infinity-war/1366_521.jpeg " group-title="Canales 24/7",Cine Marvel
-http://user.tvcluboficial.com/live/m/m/697.m3u8
-#EXTINF:-1 tvg-logo=" https://bestmovie.es/wp-content/uploads/2025/02/marvel.webp " group-title="Canales 24/7",Cine Marvel 2
-http://user.tvcluboficial.com/live/m/m/701.m3u8
-#EXTINF:-1 tvg-logo=" https://hips.hearstapps.com/hmg-prod/images/peliculas-amor-romanticas-ver-antes-de-morir-orgullo-y-prejuicio-1537345118.jpg " group-title="Canales 24/7",Cine Romance
-http://user.tvcluboficial.com/live/m/m/689.m3u8
-#EXTINF:-1 tvg-logo=" https://trome.com/resizer/S2OZnXWuq_NNtashrhpDWQzrYbY=/1214x656/smart/filters:format(jpeg):quality(90)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/F6ZR3S4N7RCJZEKB
+
+#EXTINF:-1 tvg-logo="https://www.alvarocuevas.es/wp-content/uploads/2021/01/Las-mejores-sagas-de-peliculas-1080x675.jpg" group-title="Cine 24/7",Cine Sagas
+http
