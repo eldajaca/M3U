@@ -15,6 +15,8 @@ https://cinemaquepao.glitch.me/7888652512408/Lilo%20y%20Stitch%20(2025).mp4
 https://cinemaquepao.glitch.me/7699673951384/Una%20pel%C3%ADcula%20de%20Minecraft%20(2025).mp4
 #EXTINF:-1 tvg-id="Peliculas.ae" tvg-name="Peliculas" tvg-logo="https://revistayume.com/wp-content/uploads/2025/05/Captura-de-pantalla-2025-05-03-013008-1296x700.jpg" group-title="Peliculas",Until Dawn: Noche de terror (2025)
 https://cinemaquepao.glitch.me/7596594736280/Until%20Dawn%20Noche%20de%20terror%20(2025).mp4
+#EXTINF:-1 tvg-id="Peliculas.ae" tvg-name="Peliculas" tvg-logo="https://static.wixstatic.com/media/24bb9b_aaf1902a1fec4add9f27dff994d5bf99~mv2.png/v1/fill/w_568,h_320,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/24bb9b_aaf1902a1fec4add9f27dff994d5bf99~mv2.png" group-title="Peliculas",Estado Eléctrico  (2025)
+https://cinemaquepao.glitch.me/9331761523864/2025-06-13_22:52:21.mp4
 #EXTINF:-1 tvg-id="Peliculas.ae" tvg-name="Peliculas" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/aae55bd09633a9c4a12a97f4b1dc624d40bd5c83321aa94adcbb3e7c94086ad4.jpg" group-title="Peliculas",Las Aventuras de Dog Man (2025)
 https://cinemaquepao.glitch.me/8610207018136/Las%20aventuras%20de%20Dog%20Man%20(2025)%20@JuAnChO1304.mp4
 #EXTINF:-1 tvg-id="Peliculas.ae" tvg-name="Peliculas" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/6595bb885a5d875b3436a966d2b58aaa5ab71e72464df9cafee2c38f46ad4951.jpg" group-title="Peliculas",El Jardinero (2025)
@@ -137,7 +139,4 @@ https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/TNT/40-hls/live-media.m3u8
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/GOLDENEDGE/40-hls/live-media.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kYJ3JtpzvxivXRBEvdJ4aMXPXGxUnEiIg7fG3Cb_CLw3M=s900-c-k-c0x00ffffff-no-rj" group-title="Canales Populares" tvg-description="HBO es una cadena de televisión por suscripción estadounidense, propiedad de Warner Bros. Discovery a través de su división Warner Bros. Entertainment. Es operada por Home Box Office, Inc., subsidiaria con sede en Nueva York.",HBO
 http://user.tvcluboficial.com/live/m/m/62.m3u8
-#EXTINF:-1 tvg-id="HBOPlus" tvg-name="HBO+" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/9/9a/Hboplus20.jpg/revision/latest?cb=20200216213428&path-prefix=pt-br" group-title="Canales Populares",HBO+
-http://104.238.222.251:8989/278489_.m3u8
-#EXTINF:-1 tvg-id="HBOFamily" tvg-name="HBO Family" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-3k6SIkRBv3yzOAtT-W1OOm0bODd1c01Eiw&s" group-title="Canales Populares",HBO Family
-http://104.238.222.251:8989/278495_.m3u8
+#EXTINF:-1 tvg-id="HBOPlus" tvg-name="HBO+" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/9/9a/Hboplus20.jpg/revision/latest?cb=20200216213
