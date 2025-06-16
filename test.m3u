@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Por Tiempo Limitado tvg-name=" tvg-logo="https://press-spain.max.com/post/681a22bcf2723/related-media/alldownload?mediaType=image" group-title="Por Tiempo Limitado",Chespirito: Sin querer queriendo S01E02
-https://us1.akirabox.com/uploads/users/lvgKGxXnG8Qn/coX6orwabyCb2iB8Qde-Chespirito%20Sin%20Querer%20Queriendo%20-%20S01E02.mkv?access=QdhtGZmt2MydTY3Rmd0ond3YWaslGcxYHdiNTb
-#EXTINF:-1 tvg-id="Por Tiempo Limitado tvg-name=" tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/d4febd9/2147483647/strip/true/crop/1920x1080+0+0/resize/928x522!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fce%2Fe6%2Fac978e1140abb5edc85654639a7b%2Fnetflix-revela-detalles-jamas-contados-de-la-tragedia-del-submarino-titan-en-nuevo-documental-cuan.png" group-title="Por Tiempo Limitado",Titán: La tragedia de OceanGate (2025)
-https://7f12638xuzfg.premilkyway.com/hls2/01/10613/pq44dwhr4toc_h/master.m3u8?t=bQdIEgXR8aXwgMcMJxfaIQvhnNvKThhyl32n02QrCSA&s=1749873875&e=129600&f=53066464&srv=z13jtbat10fa85i&i=0.4&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=21826
+#EXTINF:-1 tvg-id="Por Tiempo Limitado tvg-name=" tvg-logo="https://g5noticias.cl/wp-content/uploads/2025/05/morty.jpg" group-title="Por Tiempo Limitado",Rick y Morty S08E04
+https://eu1.akirabox.com/uploads/users/DLK0G1RYm917/coc0YbaM2XrPKhF9vde-Rick%20y%20Morty%20S08E04%20WEB-DL%201080p%20Latino.mkv?access=gahdHZwsWNyZXYxQWZvdTevlTd3cmawlHaiJWb
 #EXTINF:-1 tvg-id="Peliculas.ae" tvg-name="Peliculas" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/IyCoZfpUXqx2JznUFykFgw/1200x675.jpg" group-title="Peliculas",El Contador 2 (2025)
 https://cinemaquepao.glitch.me/8713286233240/El%20Contador%202%20(2025).mp4
 #EXTINF:-1 tvg-id="Peliculas.ae" tvg-name="Peliculas" tvg-logo="https://imagenes.elpais.com/resizer/v2/SYBKPBQZJFDSLA2Y5ODG6O2XLM.jpg?auth=bac4ea4084a858f9afbdca9b774d5f4823f8ec7236425f2a094ecb0efdbca2d2&width=1960&height=1470&smart=true" group-title="Peliculas",Amenaza en el Aire (2025)
@@ -139,4 +137,7 @@ https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/TNT/40-hls/live-media.m3u8
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/GOLDENEDGE/40-hls/live-media.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kYJ3JtpzvxivXRBEvdJ4aMXPXGxUnEiIg7fG3Cb_CLw3M=s900-c-k-c0x00ffffff-no-rj" group-title="Canales Populares" tvg-description="HBO es una cadena de televisión por suscripción estadounidense, propiedad de Warner Bros. Discovery a través de su división Warner Bros. Entertainment. Es operada por Home Box Office, Inc., subsidiaria con sede en Nueva York.",HBO
 http://user.tvcluboficial.com/live/m/m/62.m3u8
-#EXTINF:-1 tvg-id="HBOPlus" tvg-name="HBO+" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/9/9a/Hboplus20.jpg/revision/latest?cb=20200216213
+#EXTINF:-1 tvg-id="HBOPlus" tvg-name="HBO+" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/9/9a/Hboplus20.jpg/revision/latest?cb=20200216213428&path-prefix=pt-br" group-title="Canales Populares",HBO+
+http://104.238.222.251:8989/278489_.m3u8
+#EXTINF:-1 tvg-id="HBOFamily" tvg-name="HBO Family" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-3k6SIkRBv3yzOAtT-W1OOm0bODd1c01Eiw&s" group-title="Canales Populares",HBO Family
+http://104.238.222.251:8989/278495_.m3u8
