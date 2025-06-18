@@ -51,6 +51,8 @@ http://user.tvcluboficial.com/live/m/m/518.m3u8
 http://user.tvcluboficial.com/live/m/m/907.m3u8
 #EXTINF:-1 tvg-id="Canales 24/7 tvg-name=" tvg-logo="https://occ-0-8407-92.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAABbVYfxauaLQ43-5MV84VPBtDOWcLrjSCo-Olm_bM-Qy5yJTXisP1kSaj7_DqnSfU9982X2Ilm0b3hbd3dNqXMNQ_tACFIqxYGTL1.jpg?r=e06" group-title="Canales 24/7",Yugioh 24/7
 http://user.tvcluboficial.com/live/m/m/664.m3u8
+#EXTINF:-1 tvg-id="Canales 24/7 tvg-name=" tvg-logo="https://www.sentidog.com/wp-content/uploads/2024/01/Los-fanaticos-ahora-estan-furiosos-por-un-reinicio-de-Animaniacs.jpeg" group-title="Canales 24/7", Animaniacs 24/7
+http://user.tvcluboficial.com/live/m/m/677.m3u8
 #EXTINF:-1 tvg-id="Canales 24/7 tvg-name=" tvg-logo="https://wallpapers.com/images/featured/tom-y-jerry-2f5fbl2k3wwi31aq.jpg" group-title="Canales 24/7",Tom y Jerry 24/7
 http://user.tvcluboficial.com/live/m/m/421.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/9c56a46f7bd4303ab33b7cf7cc6a7f45fa52030978f3cdbff18ef02b5716905c._SX1080_FMjpg_.jpg" group-title="Canales 24/7",Alf 24/7
@@ -141,6 +143,4 @@ http://user.tvcluboficial.com/live/m/m/67.m3u8
 http://user.tvcluboficial.com/live/m/m/61.m3u8
 #EXTINF:-1 tvg-id="Star" tvg-name="Star" tvg-logo="https://marketersbyadlatina.com/uploads/img/-5774-Star-Channel.jpg" group-title="Canales Populares",Star
 http://user.tvcluboficial.com/live/m/m/45.m3u8
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/tnt_reface_1_002_vbig_0.jpg" group-title="Canales Populares",TNT
-https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/TNT/40-hls/live-media.m3u8
-#EXTINF:-1 tvg-id="GoldenEdge" tvg-name="Golden Edge" tvg-logo="https://static.wikia
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://www.thedailytelevision.com/sites/
