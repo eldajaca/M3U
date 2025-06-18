@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Canales Populares tvg-name=" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Canales Populares",ESPN
+#EXTINF:-1 tvg-id="Deportes tvg-name=" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Canales Populares",ESPN
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/ESPN/40-hls/live-media.m3u8
-#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2" tvg-logo="https://static.wikia.nocookie.net/espn/images/7/79/ESPN2-Logo-D795.png/revision/latest/scale-to-width-down/284?cb=20130819193813" group-title="Canales Populares",ESPN 2
+#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2" tvg-logo="https://static.wikia.nocookie.net/espn/images/7/79/ESPN2-Logo-D795.png/revision/latest/scale-to-width-down/284?cb=20130819193813" group-title="Deportes",ESPN 2
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/ESPN2/40-hls/live-media.m3u8
-#EXTINF:-1 tvg-id="ESPN3" tvg-name="ESPN 3" tvg-logo="https://www.delta.nl/media/2331/espn3-delta.png?anchor=center&mode=crop&width=300&rnd=132531239549930000" group-title="Canales Populares",ESPN 3
+#EXTINF:-1 tvg-id="ESPN3" tvg-name="ESPN 3" tvg-logo="https://www.delta.nl/media/2331/espn3-delta.png?anchor=center&mode=crop&width=300&rnd=132531239549930000" group-title="Deportes",ESPN 3
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/ESPN3/40-hls/live-media.m3u8
-#EXTINF:-1 tvg-id="Canales Populares tvg-name=" tvg-logo="https://sumarium.info/wp-content/uploads/2022/02/DirecTV-Sports.jpg" group-title="Canales Populares", Directv Sports
+#EXTINF:-1 tvg-id="Deportes tvg-name=" tvg-logo="https://sumarium.info/wp-content/uploads/2022/02/DirecTV-Sports.jpg" group-title="Deportes", Directv Sports
 http://goldfull.pro:8880/FranciscoFullxd@/@@Fn9237@Manb72@/167731
 #EXTINF:-1 tvg-id="CanalEstrellas" tvg-name="Canal de las estrellas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZObriX0ID_CpECdCroGwy1bvh8BoIi33xqA&s" group-title="Canales Populares",Canal de las estrellas
 http://user.tvcluboficial.com/live/m/m/411.m3u8
