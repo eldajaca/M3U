@@ -17,6 +17,12 @@ http://user.tvcluboficial.com/live/m/m/328.m3u8
 http://user.tvcluboficial.com/live/m/m/892.m3u8
 #EXTINF:-1 tvg-id="Deportes tvg-name=" tvg-logo="https://elcomercio.pe/resizer/vtG-1q6Pe-NJaVMsE36hrbPkm00=/1200x675/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/2NCA5YZUQRFXRAMBWIKFDWRRZI.jpg" group-title="Deportes", TyC Sports
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/TYCSPORT/40-hls/live-media.m3u8
+#EXTINF:-1 tvg-id="HBO tvg-name=" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kYJ3JtpzvxivXRBEvdJ4aMXPXGxUnEiIg7fG3Cb_CLw3M=s900-c-k-c0x00ffffff-no-rj" group-title="HBO", HBO
+http://user.tvcluboficial.com/live/m/m/62.m3u8
+#EXTINF:-1 tvg-id="HBO tvg-name=" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/9/9a/Hboplus20.jpg/revision/latest?cb=20200216213428&path-prefix=pt-br" group-title="HBO", HBO+
+http://104.238.222.251:8989/278495_.m3u8
+#EXTINF:-1 tvg-id="HBO tvg-name=" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-3k6SIkRBv3yzOAtT-W1OOm0bODd1c01Eiw&s" group-title="HBO", HBO Family
+http://user.tvcluboficial.com/live/m/m/968.m3u8
 #EXTINF:-1 tvg-id="CanalEstrellas" tvg-name="Canal de las estrellas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZObriX0ID_CpECdCroGwy1bvh8BoIi33xqA&s" group-title="Canales Populares",Canal de las estrellas
 http://user.tvcluboficial.com/live/m/m/411.m3u8
 #EXTINF:-1 tvg-id="DistritoComedia" tvg-name="Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="Canales Populares",Distrito Comedia
@@ -65,9 +71,3 @@ http://user.tvcluboficial.com/live/m/m/45.m3u8
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/TNT/40-hls/live-media.m3u8
 #EXTINF:-1 tvg-id="GoldenEdge" tvg-name="Golden Edge" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Golden_Edge_2016.png/revision/latest/scale-to-width-down/310?cb=20191215195803&path-prefix=es" group-title="Canales Populares",Golden Edge
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/GOLDENEDGE/40-hls/live-media.m3u8
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kYJ3JtpzvxivXRBEvdJ4aMXPXGxUnEiIg7fG3Cb_CLw3M=s900-c-k-c0x00ffffff-no-rj" group-title="Canales Populares" tvg-description="HBO es una cadena de televisión por suscripción estadounidense, propiedad de Warner Bros. Discovery a través de su división Warner Bros. Entertainment. Es operada por Home Box Office, Inc., subsidiaria con sede en Nueva York.",HBO
-http://user.tvcluboficial.com/live/m/m/62.m3u8
-#EXTINF:-1 tvg-id="HBOPlus" tvg-name="HBO+" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/9/9a/Hboplus20.jpg/revision/latest?cb=20200216213428&path-prefix=pt-br" group-title="Canales Populares",HBO+
-http://104.238.222.251:8989/278489_.m3u8
-#EXTINF:-1 tvg-id="HBOFamily" tvg-name="HBO Family" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-3k6SIkRBv3yzOAtT-W1OOm0bODd1c01Eiw&s" group-title="Canales Populares",HBO Family
-http://104.238.222.251:8989/278495_.m3u8
