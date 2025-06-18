@@ -95,6 +95,8 @@ https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/ESPN/40-hls/live-media.m3u
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/ESPN2/40-hls/live-media.m3u8
 #EXTINF:-1 tvg-id="ESPN3" tvg-name="ESPN 3" tvg-logo="https://www.delta.nl/media/2331/espn3-delta.png?anchor=center&mode=crop&width=300&rnd=132531239549930000" group-title="Canales Populares",ESPN 3
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/ESPN3/40-hls/live-media.m3u8
+#EXTINF:-1 tvg-id="Canales Populares tvg-name=" tvg-logo="https://sumarium.info/wp-content/uploads/2022/02/DirecTV-Sports.jpg" group-title="Canales Populares", Directv Sports
+http://goldfull.pro:8880/FranciscoFullxd@/@@Fn9237@Manb72@/167731
 #EXTINF:-1 tvg-id="CanalEstrellas" tvg-name="Canal de las estrellas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZObriX0ID_CpECdCroGwy1bvh8BoIi33xqA&s" group-title="Canales Populares",Canal de las estrellas
 http://user.tvcluboficial.com/live/m/m/411.m3u8
 #EXTINF:-1 tvg-id="DistritoComedia" tvg-name="Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="Canales Populares",Distrito Comedia
@@ -141,5 +143,4 @@ http://user.tvcluboficial.com/live/m/m/61.m3u8
 http://user.tvcluboficial.com/live/m/m/45.m3u8
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/tnt_reface_1_002_vbig_0.jpg" group-title="Canales Populares",TNT
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/TNT/40-hls/live-media.m3u8
-#EXTINF:-1 tvg-id="GoldenEdge" tvg-name="Golden Edge" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Golden_Edge_2016.png/revision/latest/scale-to-width-down/310?cb=20191215195803&path-prefix=es" group-title="Canales Populares",Golden Edge
-https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/GOLDENEDGE/4
+#EXTINF:-1 tvg-id="GoldenEdge" tvg-name="Golden Edge" tvg-logo="https://static.wikia
