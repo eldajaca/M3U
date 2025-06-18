@@ -57,6 +57,8 @@ http://user.tvcluboficial.com/live/m/m/677.m3u8
 http://user.tvcluboficial.com/live/m/m/421.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/9c56a46f7bd4303ab33b7cf7cc6a7f45fa52030978f3cdbff18ef02b5716905c._SX1080_FMjpg_.jpg" group-title="Canales 24/7",Alf 24/7
 http://user.tvcluboficial.com/live/m/m/426.m3u8
+#EXTINF:-1 tvg-id="Canales 24/7 tvg-name=" tvg-logo="https://basadoenhechosreales.com.ar/wp-content/uploads/cual-es-la-historia-de-los-caballeros-del-zodiaco.webp" group-title="Canales 24/7", Caballeros del Zodiaco 24/7
+http://user.tvcluboficial.com/live/m/m/427.m3u8
 #EXTINF:-1 tvg-logo="https://www.elcolombiano.com/blogs/cinefagos/wp-content/uploads/2012/10/indestructibles.jpg" group-title="Canales 24/7",Cine Acción
 http://user.tvcluboficial.com/live/m/m/990.m3u8
 #EXTINF:-1 tvg-logo="https://i.blogs.es/4755f7/accion/1366_2000.jpeg" group-title="Canales 24/7",Cine Acción 2
@@ -141,6 +143,4 @@ http://user.tvcluboficial.com/live/m/m/76.m3u8
 http://user.tvcluboficial.com/live/m/m/67.m3u8
 #EXTINF:-1 tvg-id="History2" tvg-name="History 2" tvg-logo="https://www.totalmedios.com/img/noticias/2022/01/61f288792229c__838x390.jpg" group-title="Canales Populares",History 2
 http://user.tvcluboficial.com/live/m/m/61.m3u8
-#EXTINF:-1 tvg-id="Star" tvg-name="Star" tvg-logo="https://marketersbyadlatina.com/uploads/img/-5774-Star-Channel.jpg" group-title="Canales Populares",Star
-http://user.tvcluboficial.com/live/m/m/45.m3u8
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://www.thedailytelevision.com/sites/
+#EXTINF:-1 tvg-id="Star" 
