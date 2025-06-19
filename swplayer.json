@@ -1,0 +1,229 @@
+package com.stormunblessed
+
+import com.fasterxml.jackson.annotation.JsonProperty
+import com.lagradost.cloudstream3.*
+import com.lagradost.cloudstream3.utils.*
+import com.lagradost.cloudstream3.utils.AppUtils.parseJson
+
+class SWPlayerProvider : MainAPI() {
+    override var mainUrl = "https://h5.swplayer.com"
+    override var name = "SW Player"
+    override var lang = "es"
+    override val hasQuickSearch = false
+    override val hasMainPage = true
+    override val hasChromecastSupport = true
+    override val hasDownloadSupport = true
+    override val supportedTypes = setOf(
+        TvType.Movie,
+        TvType.TvSeries,
+    )
+
+    companion object {
+        private const val apiUrl = "https://api.swplayer.com/v1/" // (Suposición, revisar API real)
+        private val headers = mapOf(
+            "User-Agent" to USER_AGENT,
+            "Referer" to "https://h5.swplayer.com/",
+            "Origin" to "https://h5.swplayer.com",
+        )
+    }
+
+    // Función para obtener imágenes (si usan TMDB o propia)
+    private fun getImageUrl(path: String?): String? {
+        return when {
+            path.isNullOrEmpty() -> null
+            path.startsWith("http") -> path
+            else -> "$mainUrl$path" // Si usan rutas relativas
+        }
+    }
+
+    // --- BÚSQUEDA ---
+    override suspend fun search(query: String): List<SearchResponse> {
+        val searchResults = mutableListOf<SearchResponse>()
+        val url = "$apiUrl/search?query=$query"
+        
+        val response = app.get(url, headers = headers).text
+        val json = parseJson<SWSearchResponse>(response)
+
+        json.movies?.forEach { movie ->
+            searchResults.add(
+                newMovieSearchResponse(
+                    movie.title ?: "Sin título",
+                    "$mainUrl/movie/${movie.id}",
+                    TvType.Movie
+                ) {
+                    posterUrl = getImageUrl(movie.posterPath)
+                }
+            )
+        }
+
+        json.series?.forEach { serie ->
+            searchResults.add(
+                newTvSeriesSearchResponse(
+                    serie.name ?: "Sin título",
+                    "$mainUrl/series/${serie.id}",
+                    TvType.TvSeries
+                ) {
+                    posterUrl = getImageUrl(serie.posterPath)
+                }
+            )
+        }
+
+        return searchResults
+    }
+
+    // --- PÁGINA PRINCIPAL ---
+    override suspend fun getMainPage(page: Int, request: MainPageRequest): HomePageResponse {
+        val homePageList = mutableListOf<HomePageList>()
+        val response = app.get(apiUrl, headers = headers).text
+        val json = parseJson<SWMainPageResponse>(response)
+
+        json.sections?.forEach { section ->
+            val items = section.items?.mapNotNull { item ->
+                if (item.type == "movie") {
+                    newMovieSearchResponse(
+                        item.title ?: "Sin título",
+                        "$mainUrl/movie/${item.id}",
+                        TvType.Movie
+                    ) {
+                        posterUrl = getImageUrl(item.posterPath)
+                    }
+                } else if (item.type == "serie") {
+                    newTvSeriesSearchResponse(
+                        item.title ?: "Sin título",
+                        "$mainUrl/series/${item.id}",
+                        TvType.TvSeries
+                    ) {
+                        posterUrl = getImageUrl(item.posterPath)
+                    }
+                } else null
+            } ?: listOf()
+
+            homePageList.add(HomePageList(section.title ?: "Sección", items))
+        }
+
+        return HomePageResponse(homePageList)
+    }
+
+    // --- DETALLES DE PELÍCULA/SERIE ---
+    override suspend fun load(url: String): LoadResponse? {
+        val id = url.substringAfterLast("/")
+        val isMovie = url.contains("/movie/")
+
+        val apiEndpoint = if (isMovie) "$apiUrl/movies/$id" else "$apiUrl/series/$id"
+        val response = app.get(apiEndpoint, headers = headers).text
+        val data = parseJson<SWMediaDetails>(response)
+
+        return if (isMovie) {
+            newMovieLoadResponse(
+                data.title ?: "Sin título",
+                url,
+                TvType.Movie,
+                "$apiUrl/stream/movie/$id"
+            ) {
+                posterUrl = getImageUrl(data.posterPath)
+                backgroundPosterUrl = getImageUrl(data.backdropPath)
+                plot = data.overview
+                year = data.releaseDate?.substringBefore("-")?.toIntOrNull()
+            }
+        } else {
+            val episodes = data.seasons?.flatMap { season ->
+                season.episodes?.map { episode ->
+                    Episode(
+                        data = "$apiUrl/stream/series/${data.id}/${season.number}/${episode.number}",
+                        name = episode.name,
+                        season = season.number,
+                        episode = episode.number,
+                        posterUrl = getImageUrl(episode.stillPath)
+                    )
+                } ?: listOf()
+            } ?: listOf()
+
+            newTvSeriesLoadResponse(
+                data.title ?: "Sin título",
+                url,
+                TvType.TvSeries,
+                episodes
+            ) {
+                posterUrl = getImageUrl(data.posterPath)
+                backgroundPosterUrl = getImageUrl(data.backdropPath)
+                plot = data.overview
+                year = data.firstAirDate?.substringBefore("-")?.toIntOrNull()
+            }
+        }
+    }
+
+    // --- EXTRACCIÓN DE ENLACES ---
+    override suspend fun loadLinks(
+        data: String,
+        isCasting: Boolean,
+        subtitleCallback: (SubtitleFile) -> Unit,
+        callback: (ExtractorLink) -> Unit
+    ): Boolean {
+        val response = app.get(data, headers = headers).text
+        val sources = parseJson<SWStreamSources>(response)
+
+        sources.streams?.forEach { stream ->
+            loadExtractor(stream.url, subtitleCallback, callback)
+        }
+
+        return true
+    }
+
+    // --- MODELOS DE DATOS ---
+    data class SWSearchResponse(
+        @JsonProperty("movies") val movies: List<SWMediaItem>?,
+        @JsonProperty("series") val series: List<SWMediaItem>?
+    )
+
+    data class SWMainPageResponse(
+        @JsonProperty("sections") val sections: List<SWSection>?
+    )
+
+    data class SWSection(
+        @JsonProperty("title") val title: String?,
+        @JsonProperty("items") val items: List<SWMediaItem>?
+    )
+
+    data class SWMediaItem(
+        @JsonProperty("id") val id: String?,
+        @JsonProperty("title") val title: String?,
+        @JsonProperty("name") val name: String?,
+        @JsonProperty("type") val type: String?,
+        @JsonProperty("poster_path") val posterPath: String?,
+        @JsonProperty("backdrop_path") val backdropPath: String?,
+        @JsonProperty("release_date") val releaseDate: String?,
+        @JsonProperty("first_air_date") val firstAirDate: String?
+    )
+
+    data class SWMediaDetails(
+        @JsonProperty("id") val id: String?,
+        @JsonProperty("title") val title: String?,
+        @JsonProperty("name") val name: String?,
+        @JsonProperty("overview") val overview: String?,
+        @JsonProperty("poster_path") val posterPath: String?,
+        @JsonProperty("backdrop_path") val backdropPath: String?,
+        @JsonProperty("release_date") val releaseDate: String?,
+        @JsonProperty("first_air_date") val firstAirDate: String?,
+        @JsonProperty("seasons") val seasons: List<SWSeason>?
+    )
+
+    data class SWSeason(
+        @JsonProperty("number") val number: Int?,
+        @JsonProperty("episodes") val episodes: List<SWEpisode>?
+    )
+
+    data class SWEpisode(
+        @JsonProperty("number") val number: Int?,
+        @JsonProperty("name") val name: String?,
+        @JsonProperty("still_path") val stillPath: String?
+    )
+
+    data class SWStreamSources(
+        @JsonProperty("streams") val streams: List<SWStream>?
+    )
+
+    data class SWStream(
+        @JsonProperty("url") val url: String?,
+        @JsonProperty("quality") val quality: String?
+    )
+}
