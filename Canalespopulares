@@ -7,6 +7,8 @@ https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/ESPN2/40-hls/live-media.m3
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/ESPN3/40-hls/live-media.m3u8
 #EXTINF:-1 tvg-id="Deportes tvg-name=" tvg-logo="https://sumarium.info/wp-content/uploads/2022/02/DirecTV-Sports.jpg" group-title="Deportes", Directv Sports
 http://goldfull.pro:8880/FranciscoFullxd@/@@Fn9237@Manb72@/167731
+#EXTINF:-1 tvg-id="Deportes tvg-name=" tvg-logo="http://goldfull.pro:8880/images/ecc2816ea02928aa4f2917d4980b2f9a.png" group-title="Deportes", DirectTv Sports 2
+http://goldfull.pro:8880/FranciscoFullxd@/@@Fn9237@Manb72@/167733
 #EXTINF:-1 tvg-id="Deportes tvg-name=" tvg-logo="https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/743/cached.offlinehbpl.hbpl.co.uk/news/OMC/00C67C11-E180-3394-21A74F46FFBD151D.jpg" group-title="Deportes", SKY Sports 
 http://user.tvcluboficial.com/live/m/m/900.m3u8
 #EXTINF:-1 tvg-id="Deportes tvg-name=" tvg-logo="https://procompetencia.gob.do/wp-content/uploads/2022/02/despidos.gif" group-title="Deportes", Fox Sports 
@@ -17,11 +19,9 @@ http://user.tvcluboficial.com/live/m/m/328.m3u8
 http://user.tvcluboficial.com/live/m/m/892.m3u8
 #EXTINF:-1 tvg-id="Deportes tvg-name=" tvg-logo="https://elcomercio.pe/resizer/vtG-1q6Pe-NJaVMsE36hrbPkm00=/1200x675/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/2NCA5YZUQRFXRAMBWIKFDWRRZI.jpg" group-title="Deportes", TyC Sports
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/TYCSPORT/40-hls/live-media.m3u8
-#EXTINF:-1 tvg-id="HBO tvg-name=" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kYJ3JtpzvxivXRBEvdJ4aMXPXGxUnEiIg7fG3Cb_CLw3M=s900-c-k-c0x00ffffff-no-rj" group-title="HBO", HBO
+#EXTINF:-1 tvg-id="HBO tvg-name=" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kYJ3JtpzvxivXRBEvdJ4aMXPXGxUnEiIg7fG3Cb_CLw3M=s900-c-k-c0x00ffffff-no-rj" group-title="Canales Populares", HBO
 http://user.tvcluboficial.com/live/m/m/62.m3u8
-#EXTINF:-1 tvg-id="HBO tvg-name=" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/9/9a/Hboplus20.jpg/revision/latest?cb=20200216213428&path-prefix=pt-br" group-title="HBO", HBO+
-http://104.238.222.251:8989/278495_.m3u8
-#EXTINF:-1 tvg-id="HBO tvg-name=" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-3k6SIkRBv3yzOAtT-W1OOm0bODd1c01Eiw&s" group-title="HBO", HBO Family
+#EXTINF:-1 tvg-id="Canales Populares tvg-name=" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-3k6SIkRBv3yzOAtT-W1OOm0bODd1c01Eiw&s" group-title="Canales Populares", HBO Family
 http://user.tvcluboficial.com/live/m/m/968.m3u8
 #EXTINF:-1 tvg-id="CanalEstrellas" tvg-name="Canal de las estrellas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZObriX0ID_CpECdCroGwy1bvh8BoIi33xqA&s" group-title="Canales Populares",Canal de las estrellas
 http://user.tvcluboficial.com/live/m/m/411.m3u8
