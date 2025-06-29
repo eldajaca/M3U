@@ -1,21 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://editorialtelevisa.brightspotcdn.com/dims4/default/565793a/2147483647/strip/true/crop/686x386+0+0/resize/1000x563!/quality/90/?url=https%3A%2F%2Fk2-prod-editorial-televisa.s3.us-east-1.amazonaws.com%2Fbrightspot%2F08%2Fe0%2F8e85d4c54babb561ea9b7d7a29dd%2Fel-juego-del-calamar-3.jpg" group-title="Series",El Juego del Calamar S03E01
-https://us1.akirabox.com/uploads/users/lvgKGxXnG8Qn/coQvyrujCOW3Z070mde-El%20Juego%20Del%20Calamar%20%20-%20S03e01%20-%20Llaves%20Y%20Cuchillos%20720p.mkv?access=AahVGZ6tGNy1WYzQGcjNDbxtWckRDMrZ2bj5Wb
-
-#EXTINF:-1 tvg-logo="https://editorialtelevisa.brightspotcdn.com/dims4/default/565793a/2147483647/strip/true/crop/686x386+0+0/resize/1000x563!/quality/90/?url=https%3A%2F%2Fk2-prod-editorial-televisa.s3.us-east-1.amazonaws.com%2Fbrightspot%2F08%2Fe0%2F8e85d4c54babb561ea9b7d7a29dd%2Fel-juego-del-calamar-3.jpg" group-title="Series",El Juego del Calamar S03E02
-https://us1.akirabox.com/uploads/users/lvgKGxXnG8Qn/coeHMZ43dI0zNwfMLde-El%20Juego%20Del%20Calamar%20%20-%20S03e02%20-%20Noche%20Estrellada%20720p.mkv?access=QdhZDZ5smayRWYrRWdvJ2di1WOkpGMnZmejRTb
-
-#EXTINF:-1 tvg-logo="https://editorialtelevisa.brightspotcdn.com/dims4/default/565793a/2147483647/strip/true/crop/686x386+0+0/resize/1000x563!/quality/90/?url=https%3A%2F%2Fk2-prod-editorial-televisa.s3.us-east-1.amazonaws.com%2Fbrightspot%2F08%2Fe0%2F8e85d4c54babb561ea9b7d7a29dd%2Fel-juego-del-calamar-3.jpg" group-title="Series",El Juego del Calamar S03E03
-https://us1.akirabox.com/uploads/users/lvgKGxXnG8Qn/cojpZHvrhkCSqmcU5de-El%20Juego%20Del%20Calamar%20-%20S03e03%20-%20No%20Es%20Culpa%20Tuya%20720p.mkv?access=AdhNGZztGcyFTY4QWYvBTd4QXakRDM3ZWNjFWb
-
-#EXTINF:-1 tvg-logo="https://editorialtelevisa.brightspotcdn.com/dims4/default/565793a/2147483647/strip/true/crop/686x386+0+0/resize/1000x563!/quality/90/?url=https%3A%2F%2Fk2-prod-editorial-televisa.s3.us-east-1.amazonaws.com%2Fbrightspot%2F08%2Fe0%2F8e85d4c54babb561ea9b7d7a29dd%2Fel-juego-del-calamar-3.jpg" group-title="Series",El Juego del Calamar S03E04
-https://us1.akirabox.com/uploads/users/lvgKGxXnG8Qn/cotZIvMH9tsj0BLzkde-El%20Juego%20Del%20Calamar%20%20-%20S03e04%20-%20222%20720p.mkv?access=wYhtGZwt2Ny5WYxQmb4k3Z19mNkNHM2YGajJWb
-
-#EXTINF:-1 tvg-logo="https://editorialtelevisa.brightspotcdn.com/dims4/default/565793a/2147483647/strip/true/crop/686x386+0+0/resize/1000x563!/quality/90/?url=https%3A%2F%2Fk2-prod-editorial-televisa.s3.us-east-1.amazonaws.com%2Fbrightspot%2F08%2Fe0%2F8e85d4c54babb561ea9b7d7a29dd%2Fel-juego-del-calamar-3.jpg" group-title="Series",El Juego del Calamar S03E05
-https://us1.akirabox.com/uploads/users/lvgKGxXnG8Qn/cosyklQUxWoSO9RHUde-El%20Juego%20Del%20Calamar%20%20-%20S03e05%20-%20%E2%97%8B%E2%96%B3%E2%96%A1%20720p.mkv?access=QMhZGZ5s2MyRTY0RWMzNmapljYmJGM1ZmbjRWb
-
-#EXTINF:-1 tvg-logo="https://editorialtelevisa.brightspotcdn.com/dims4/default/565793a/2147483647/strip/true/crop/686x386+0+0/resize/1000x563!/quality/90/?url=https%3A%2F%2Fk2-prod-editorial-televisa.s3.us-east-1.amazonaws.com%2Fbrightspot%2F08%2Fe0%2F8e85d4c54babb561ea9b7d7a29dd%2Fel-juego-del-calamar-3.jpg" group-title="Series",El Juego del Calamar S03E06
-https://us1.akirabox.com/uploads/users/lvgKGxXnG8Qn/coqsYXGAkspKGVMxMde-El%20Juego%20Del%20Calamar%20%20-%20S03e06%20-%20La%20Naturaleza%20Humana%20720p.mkv?access=QZhZHZwtWeyFWYiR2Nj5mazInZkVGMxZWcjVXb
+#EXTINF:-1 tvg-id="Peliculas.ae" tvg-name="Peliculas" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/b4580c32cae3f827c9b8033e42832b7e217bb17dcdf2e04f56ba0bca31640e8c._SX1080_FMjpg_.jpg" group-title="Peliculas", Criatura Voraz (2025)
+https://cinemaquepao.glitch.me/10122035506328/Criatura%20voraz%20(2025).mp4
 #EXTINF:-1 tvg-id="Peliculas.ae" tvg-name="Peliculas" tvg-logo="https://cdn2.chicmagazine.com.mx/uploads/media/2025/05/08/encerrado-explicacion-pelicula-bill-skarsgard.jpg" group-title="Peliculas", Encerrado (2025)
 https://cinemaquepao.glitch.me/10053316029592/Encerrado%20(2025).mp4
 #EXTINF:-1 tvg-id="Peliculas.ae" tvg-name="Peliculas" tvg-logo="https://i.ytimg.com/vi/3VIfAGy6dEM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDKjwgx1QNELZRewUlNZjtc743Epg" group-title="Peliculas", Destino Final: Lazos de Sangre (2025)
@@ -46,9 +31,7 @@ https://cinemaquepao.glitch.me/8610207018136/Las%20aventuras%20de%20Dog%20Man%20
 https://cinemaquepao.glitch.me/8988164140184/El%20jardinero%20(2025).mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTg2YTMyNTktNTc5Yy00MTQzLWE0YTAtYWZiNTBjNDc0OGVlXkEyXkFqcGc@._V1_.jpg" group-title="Peliculas",Plankton: La Película (2025)
 https://cinemaquepao.glitch.me/8850725186712/Plankton%20La%20pel%C3%ADcula%20-%202025.mp4
-#EXTINF:-1 tvg-id="Por Tiempo Limitado tvg-name=" tvg-logo="https://cdn2.chicmagazine.com.mx/uploads/media/2025/05/08/encerrado-explicacion-pelicula-bill-skarsgard.jpg" group-title="Por Tiempo Limitado",Encerrado (2025)
-https://eu1.akirabox.com/uploads/users/DLK0G1RYm917/co58KicaipgoduCxIde-Encerrado%20%282025%29%20WEB-DL%20LIGERO%201080p%20Latino.mkv?access=Ach9GZ4sGbyNTYqRGejFGbnF2MrRXOlVGejpXb
 #EXTINF:-1 tvg-id="Por Tiempo Limitado tvg-name=" tvg-logo="https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/06/2ac73ba2ec8e178d683f325a364f62d04d3beb7f1589279e25dab47cad20dc8e.jpg;w=960" group-title="Por Tiempo Limitado", Chespirito: Sin Querer Queriendo S01E04 
-https://us1.akirabox.com/uploads/users/lvgKGxXnG8Qn/cogcmNUDWqUoQZ7ZFde-Chespirito%20Sin%20Querer%20Queriendo%20-%20S01e04.mkv?access=wdhhGZztWYylWY3QmcjlnalRGaxdTMwYWMjhTb
+https://us1.akirabox.com/uploads/users/lvgKGxXnG8Qn/cogcmNUDWqUoQZ7ZFde-Chespirito%20Sin%20Querer%20Queriendo%20-%20S01e04.mkv?access=AehFGZrt2YyZWYkRmbvh3cwZzdlFjN5lGbjFTb
 #EXTINF:-1 tvg-id="Por Tiempo Limitado tvg-name=" tvg-logo="https://cdn.milenio.com/uploads/media/2025/04/09/rick-morty-temporada-trailer-oficial.jpg" group-title="Por Tiempo Limitado", Rick y Morty S08E05
-https://eu1.akirabox.com/uploads/users/DLK0G1RYm917/cotMLBIuq9hGXzssVde-Rick%20y%20Morty%20S08E05%20WEB-DL%201080p%20Latino.mkv?access=wbhpHZstmey1WY5QWYjRnYrVTNy5WMkZ2bjZXb
+https://eu1.akirabox.com/uploads/users/DLK0G1RYm917/cotMLBIuq9hGXzssVde-Rick%20y%20Morty%20S08E05%20WEB-DL%201080p%20Latino.mkv?access=AdhtGZ0t2ayRXYuRGN3F2c2hnblBnN4lWOjdWb
