@@ -71,5 +71,43 @@ http://user.tvcluboficial.com/live/m/m/45.m3u8
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/TNT/40-hls/live-media.m3u8
 #EXTINF:-1 tvg-id="GoldenEdge" tvg-name="Golden Edge" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Golden_Edge_2016.png/revision/latest/scale-to-width-down/310?cb=20191215195803&path-prefix=es" group-title="Canales Populares",Golden Edge
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/GOLDENEDGE/40-hls/live-media.m3u8
+#EXTINF:-1 tvg-id="GoldenEdge" tvg-name="Golden Edge" tvg-logo="https://valetv.info/wp-content/uploads/2022/11/preventa-2023.jpg" group-title="Canales Populares", Vale TV
+http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/130402.m3u8https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/MTV/20-hls/live-media.m3u8
+#EXTINF:-1 tvg-id="TeleHit" tvg-name="TeleHit" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Telehit_2014-2017.png/revision/latest?cb=20191215014230&path-prefix=es" group-title="Canales Populares",TeleHit
+https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/TELEHIT/20-hls/live-media.m3u8
+#EXTINF:-1 tvg-id="TeleMusica" tvg-name="Tele música" tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2F1acccd5c6700ad0481c6b1d7132263d291904a405401ff49b5bef0c6679a3dd1.jpg" group-title="Canales Populares",Tele música
+https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/TELEHITMUSICA/20-hls/live-media.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="Cartoon Network" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSKCq4ETzcOALKj_IubW3mfiZYmdJXnZ2KXoyuIu0Dvt3lhB2uadKgpDRrN5QLSbsecAt1PvHXVcq0baZyYzGG4lh-7Tj3o2uAB3gt44sArqgEGTGOlRGHL4MOi50gT66Zis_jUoH2mVbI1pygOvTZOFf9dmE_GAjz5J9xyLW4_Bme9CnTjkdPwFabrzQP/s624/cartoon-network-krnE-U40908261402KRH-624x385@RC.jpg" group-title="Canales Populares",Cartoon Network
+http://user.tvcluboficial.com/live/m/m/17.m3u8
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT7A-tkRwB1a72LaWI154AvA54WaFWUDv0RhzcEtb4DCU27gbaxHR2KJFR7tc8C5STHMkpL60zNFvGRLJXwZPzS9Vevb4FlwZvSYA1YSIqGXn6myh8nJQvUDRMtGAuBD5OuWYJxGginu-YG4TZy-3sDKaHPiTYNeZ5fPDzXx7gOP4xUzJ5lXWHbOvKdw/s800/tooncast-dic22.png" group-title="Canales Populares",Toocast
+http://user.tvcluboficial.com/live/m/m/95.m3u8
+#EXTINF:-1 tvg-id="Nick" tvg-name="Nick" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTudsGNYzWPsnCOKE7v5BGeH6QswRB8oYkQ_A&s" group-title="Canales Populares",Nick
+http://user.tvcluboficial.com/live/m/m/78.m3u8
+#EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito" tvg-logo="https://www.lacuarta.com/resizer/v2/NNHASRIGRRBYRABSIP3HGH5U4A.jpg?quality=80&smart=true&auth=8ca338e5ad5cd91475408573c3f96bace4954703b31efad3a090ddfb2e994fed&width=1023&height=682" group-title="Canales Populares",Cartoonito
+http://user.tvcluboficial.com/live/m/m/11.m3u8
+#EXTINF:-1 tvg-id="NickJunior" tvg-name="Nick Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="Canales Populares",Nick Junior
+http://user.tvcluboficial.com/live/m/m/79.m3u8
+#EXTINF:-1 tvg-id="BabyTV" tvg-name="Baby TV" tvg-logo="https://m.media-amazon.com/images/I/615y0GGe9pL.png" group-title="Canales Populares" tvg-description="Canal infantil con contenido educativo y entretenimiento para bebés y niños pequeños.",Baby TV
+http://user.tvcluboficial.com/live/m/m/7.m3u8
+#EXTINF:-1 tvg-id="AdultSwim" tvg-name="Adult Swim" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmGEtjlVEUFnYePpBFh4ci_4D8Y7vjEUG_oNnNk34yWk-FhW5ruSfw5zPrm7EDdWdX8ryhW9610BQOzHtbglJVXK7ecFaEodyjruJyJhPe883CGWQrhus4s1HeInh6uCodarWOzJRrPqY-oLQzuVn1-0zX7T5NiOu0mAipEK99xzoPpJFEWvtVDPNgx6gF/s1920/checkeredpastadultswim.jpg" group-title="Canales Populares",Adult Swim
+http://104.238.205.28:8989/278391_.m3u8
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN en Español" tvg-logo="https://media.cnn.com/api/v1/images/stellar/prod/111102125227-cnnee-logo.jpg?c=original" group-title="Canales Populares",CNN en Español
+http://user.tvcluboficial.com/live/m/m/136.m3u8
+#EXTINF:-1 tvg-id="IDDiscovery" tvg-name="ID Discovery" tvg-logo="https://creativereview.imgix.net/content/uploads/2018/05/IDUK_Hotel-Room_3.jpg?auto=compress,format&q=60&w=1920&h=1080" group-title="Canales Populares",ID Discovery
+http://user.tvcluboficial.com/live/m/m/68.m3u8
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery Channel" tvg-logo="https://www.newslinereport.com/online/nota_discovery-channel-la-seal-lder-en-amrica-latina-en-el-espacio-factual.jpg" group-title="Canales Populares",Discovery Channel
+http://user.tvcluboficial.com/live/m/m/22.m3u8
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="Nat Geo" tvg-logo="https://sites.disney.com/app/uploads/sites/57/2022/04/1200x628NatGeoLogo.png" group-title="Canales Populares",NatGeo
+http://user.tvcluboficial.com/live/m/m/76.m3u8
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/The_History_Channel_logo.png" group-title="Canales Populares",History
+http://user.tvcluboficial.com/live/m/m/67.m3u8
+#EXTINF:-1 tvg-id="History2" tvg-name="History 2" tvg-logo="https://www.totalmedios.com/img/noticias/2022/01/61f288792229c__838x390.jpg" group-title="Canales Populares",History 2
+http://user.tvcluboficial.com/live/m/m/61.m3u8
+#EXTINF:-1 tvg-id="Star" tvg-name="Star" tvg-logo="https://marketersbyadlatina.com/uploads/img/-5774-Star-Channel.jpg" group-title="Canales Populares",Star
+http://user.tvcluboficial.com/live/m/m/45.m3u8
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/tnt_reface_1_002_vbig_0.jpg" group-title="Canales Populares",TNT
+https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/TNT/40-hls/live-media.m3u8
+#EXTINF:-1 tvg-id="GoldenEdge" tvg-name="Golden Edge" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Golden_Edge_2016.png/revision/latest/scale-to-width-down/310?cb=20191215195803&path-prefix=es" group-title="Canales Populares",Golden Edge
+https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/GOLDENEDGE/40-hls/live-media.m3u8
 #EXTINF:-1 tvg-id="GoldenEdge" tvg-name="Golden Edge" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Golden_Edge_2016.png/revision/latest/scale-to-width-down/310?cb=20191215195803&path-prefix=es" group-title="Canales Populares", Vale TV
 http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/130402.m3u8
