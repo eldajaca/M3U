@@ -25,6 +25,8 @@ http://user.tvcluboficial.com/live/m/m/62.m3u8
 http://user.tvcluboficial.com/live/m/m/968.m3u8
 #EXTINF:-1 tvg-id="CanalEstrellas" tvg-name="Canal de las estrellas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZObriX0ID_CpECdCroGwy1bvh8BoIi33xqA&s" group-title="Canales Populares",Canal de las estrellas
 http://user.tvcluboficial.com/live/m/m/411.m3u8
+#EXTINF:-1 tvg-id="CanalEstrellas" tvg-name="Canal de las estrellas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZObriX0ID_CpECdCroGwy1bvh8BoIi33xqA&s" group-title="Canales Populares",Canal de las estrellas Opción 2
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_1.m3u8
 #EXTINF:-1 tvg-id="DistritoComedia" tvg-name="Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="Canales Populares",Distrito Comedia
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/DISTRITOCOMEDIA/20-hls/live-media.m3u8
 #EXTINF:-1 tvg-id="RCN" tvg-name="RCN" tvg-logo="https://cdn-images.dzcdn.net/images/artist/a0b00452185e46f1fb541cf9287b9599/1900x1900-000000-80-0-0.jpg" group-title="Canales Populares",RCN
