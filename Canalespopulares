@@ -5,10 +5,6 @@ https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/ESPN/40-hls/live-media.m3u
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/ESPN2/40-hls/live-media.m3u8
 #EXTINF:-1 tvg-id="Deportes tvg-name=" tvg-logo="https://www.delta.nl/media/2331/espn3-delta.png?anchor=center&mode=crop&width=300&rnd=132531239549930000" group-title="Deportes", ESPN 3
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/ESPN3/40-hls/live-media.m3u8
-#EXTINF:-1 tvg-id="Deportes tvg-name=" tvg-logo="https://sumarium.info/wp-content/uploads/2022/02/DirecTV-Sports.jpg" group-title="Deportes", Directv Sports
-http://goldfull.pro:8880/FranciscoFullxd@/@@Fn9237@Manb72@/167731
-#EXTINF:-1 tvg-id="Deportes tvg-name=" tvg-logo="http://goldfull.pro:8880/images/ecc2816ea02928aa4f2917d4980b2f9a.png" group-title="Deportes", DirectTv Sports 2
-http://goldfull.pro:8880/FranciscoFullxd@/@@Fn9237@Manb72@/167733
 #EXTINF:-1 tvg-id="Deportes tvg-name=" tvg-logo="https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/743/cached.offlinehbpl.hbpl.co.uk/news/OMC/00C67C11-E180-3394-21A74F46FFBD151D.jpg" group-title="Deportes", SKY Sports 
 http://user.tvcluboficial.com/live/m/m/900.m3u8
 #EXTINF:-1 tvg-id="Deportes tvg-name=" tvg-logo="https://procompetencia.gob.do/wp-content/uploads/2022/02/despidos.gif" group-title="Deportes", Fox Sports 
@@ -35,6 +31,8 @@ https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/RCN/20-hls/live-media.m3u8
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/TELEMUNDO/40-hls/live-media.m3u8
 #EXTINF:-1 tvg-id="VenevisionPlus" tvg-name="Venevisión Plus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Logo_venevisi%C3%B3n_plus.png/revision/latest?cb=20230326122503&path-prefix=es" group-title="Canales Populares",Venevisión Plus
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/VEPLUS/20-hls/live-media.m3u8
+#EXTINF:-1 tvg-id="VenevisionPlus" tvg-name="Venevisión Plus" tvg-logo="https://w2-venevision-com.s3.amazonaws.com/public/media/images/logo-venevision-0-1-0c3495.jpg" group-title="Canales Populares",Venevisión
+https://venevision-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://www.derocanrol.com.mx/wp-content/uploads/2024/02/Encabezado-Historia-MTV.webp" group-title="Canales Populares",MTV
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/MTV/20-hls/live-media.m3u8
 #EXTINF:-1 tvg-id="TeleHit" tvg-name="TeleHit" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Telehit_2014-2017.png/revision/latest?cb=20191215014230&path-prefix=es" group-title="Canales Populares",TeleHit
