@@ -1,83 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuLPPUaQuuMZ7EKxywIyWZ8O6vej4dcfL-9pR0-4JccA&s=10" ,A&E
-http://104.238.205.28:8989/278388_.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuLPPUaQuuMZ7EKxywIyWZ8O6vej4dcfL-9pR0-4JccA&s=10" ,AdultSwim
-http://104.238.205.28:8989/278392_.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuLPPUaQuuMZ7EKxywIyWZ8O6vej4dcfL-9pR0-4JccA&s=10" ,AMC
-http://104.238.205.28:8989/278393_.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuLPPUaQuuMZ7EKxywIyWZ8O6vej4dcfL-9pR0-4JccA&s=10" ,Animal Planet
-http://104.238.205.28:8989/278616_.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuLPPUaQuuMZ7EKxywIyWZ8O6vej4dcfL-9pR0-4JccA&s=10" ,AXN
-http://104.238.205.28:8989/278385_.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuLPPUaQuuMZ7EKxywIyWZ8O6vej4dcfL-9pR0-4JccA&s=10" ,CNN en Español
-http://172.93.102.112:8989/158621_.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuLPPUaQuuMZ7EKxywIyWZ8O6vej4dcfL-9pR0-4JccA&s=10" ,Cine Latíno
-http://104.238.205.28:8989/278460_.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuLPPUaQuuMZ7EKxywIyWZ8O6vej4dcfL-9pR0-4JccA&s=10" ,Cinecanal
-http://104.238.205.28:8989/278462_.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuLPPUaQuuMZ7EKxywIyWZ8O6vej4dcfL-9pR0-4JccA&s=10" ,Cinemax
-http://104.194.8.54:8989/278467_.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuLPPUaQuuMZ7EKxywIyWZ8O6vej4dcfL-9pR0-4JccA&s=10" ,Comedy Central
-http://199.127.63.105:8989/278409_.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuLPPUaQuuMZ7EKxywIyWZ8O6vej4dcfL-9pR0-4JccA&s=10" ,Discovery Channel
-http://199.127.63.143:8989/165456_.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuLPPUaQuuMZ7EKxywIyWZ8O6vej4dcfL-9pR0-4JccA&s=10" ,Discovery ID
-http://199.127.63.143:8989/165459_.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuLPPUaQuuMZ7EKxywIyWZ8O6vej4dcfL-9pR0-4JccA&s=10" ,De Película
-http://104.238.205.28:8989/278456_.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuLPPUaQuuMZ7EKxywIyWZ8O6vej4dcfL-9pR0-4JccA&s=10" ,Distrito Comedia
-http://104.194.8.54:8989/278416_.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuLPPUaQuuMZ7EKxywIyWZ8O6vej4dcfL-9pR0-4JccA&s=10" ,Canal E
-http://199.127.63.105:8989/278418_.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuLPPUaQuuMZ7EKxywIyWZ8O6vej4dcfL-9pR0-4JccA&s=10" ,El Gourmet
-http://199.127.63.105:8989/278420_.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuLPPUaQuuMZ7EKxywIyWZ8O6vej4dcfL-9pR0-4JccA&s=10" ,FX
-http://104.238.205.28:8989/278426_.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuLPPUaQuuMZ7EKxywIyWZ8O6vej4dcfL-9pR0-4JccA&s=10" ,Golden
-http://104.194.8.54:8989/278479_.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuLPPUaQuuMZ7EKxywIyWZ8O6vej4dcfL-9pR0-4JccA&s=10" ,Golden Plus
-http://172.93.102.112:8989/158783_.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuLPPUaQuuMZ7EKxywIyWZ8O6vej4dcfL-9pR0-4JccA&s=10" ,Golden Eye
-http://104.194.8.54:8989/278480_.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuLPPUaQuuMZ7EKxywIyWZ8O6vej4dcfL-9pR0-4JccA&s=10" ,Golden Premier
-http://172.93.102.112:8989/158784_.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuLPPUaQuuMZ7EKxywIyWZ8O6vej4dcfL-9pR0-4JccA&s=10" ,HBO
-http://104.238.205.28:8989/165849_.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuLPPUaQuuMZ7EKxywIyWZ8O6vej4dcfL-9pR0-4JccA&s=10" ,HBO 2
-http://104.238.205.28:8989/166474_.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuLPPUaQuuMZ7EKxywIyWZ8O6vej4dcfL-9pR0-4JccA&s=10" ,HBO Family
-http://104.238.205.28:8989/166450_.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuLPPUaQuuMZ7EKxywIyWZ8O6vej4dcfL-9pR0-4JccA&s=10" ,HBO Plus
-http://199.127.63.105:8989/278489_.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuLPPUaQuuMZ7EKxywIyWZ8O6vej4dcfL-9pR0-4JccA&s=10" ,HBO Mundi
-http://199.127.63.105:8989/278500_.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuLPPUaQuuMZ7EKxywIyWZ8O6vej4dcfL-9pR0-4JccA&s=10" ,HBO POP
-http://199.127.63.105:8989/278502_.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuLPPUaQuuMZ7EKxywIyWZ8O6vej4dcfL-9pR0-4JccA&s=10" ,HBO Signature
-http://199.127.63.105:8989/278504_.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuLPPUaQuuMZ7EKxywIyWZ8O6vej4dcfL-9pR0-4JccA&s=10" ,HBO Xtreme
-http://199.127.63.105:8989/278507_.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuLPPUaQuuMZ7EKxywIyWZ8O6vej4dcfL-9pR0-4JccA&s=10" ,History
-http://104.194.8.54:8989/278628_.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuLPPUaQuuMZ7EKxywIyWZ8O6vej4dcfL-9pR0-4JccA&s=10" ,History 2
-http://104.194.8.54:8989/278629_.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuLPPUaQuuMZ7EKxywIyWZ8O6vej4dcfL-9pR0-4JccA&s=10" ,HTV
-http://199.127.63.143:8989/278402_.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuLPPUaQuuMZ7EKxywIyWZ8O6vej4dcfL-9pR0-4JccA&s=10" ,Las Estrellas
-http://172.93.102.112:8989/158631_.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuLPPUaQuuMZ7EKxywIyWZ8O6vej4dcfL-9pR0-4JccA&s=10" ,NatGeo
-http://104.194.8.54:8989/278637_.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuLPPUaQuuMZ7EKxywIyWZ8O6vej4dcfL-9pR0-4JccA&s=10" ,Paramount
-http://199.127.63.105:8989/278512_.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuLPPUaQuuMZ7EKxywIyWZ8O6vej4dcfL-9pR0-4JccA&s=10" ,Pasiónes
-http://199.127.63.143:8989/158691_.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuLPPUaQuuMZ7EKxywIyWZ8O6vej4dcfL-9pR0-4JccA&s=10" ,Space
-http://199.127.63.105:8989/278515_.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuLPPUaQuuMZ7EKxywIyWZ8O6vej4dcfL-9pR0-4JccA&s=10" ,Star Channel
-http://104.194.8.54:8989/278438_.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuLPPUaQuuMZ7EKxywIyWZ8O6vej4dcfL-9pR0-4JccA&s=10" ,TNT
-http://199.127.63.105:8989/278519_.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuLPPUaQuuMZ7EKxywIyWZ8O6vej4dcfL-9pR0-4JccA&s=10" ,TNT Series
-http://104.194.8.54:8989/278444_.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuLPPUaQuuMZ7EKxywIyWZ8O6vej4dcfL-9pR0-4JccA&s=10" ,Warner
-http://199.127.63.143:8989/165455_.m3u8
+#EXTINF:-1 tvg-id="Por Tiempo Limitado tvg-name=" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfOcH3Hab8xdZ8fzMpXkbSdp0oKU0ZjMmbOC2oetzKoRfNy6y_pAEE73A&s=10" group-title="Por Tiempo Limitado", Gen V T02E06
+https://compressed-estimates-cardiff-class.trycloudflare.com/dl/68e7affb4e8ca7bd7aa3d206
+#EXTINF:-1 tvg-id="Por Tiempo Limitado tvg-name=" tvg-logo="https://i.ytimg.com/vi/NXpzKI-sEac/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBp6BZtaXS6NQjyIv5iAFJmleOnYg" group-title="Por Tiempo Limitado", Tulsa King T03E04
+https://compressed-estimates-cardiff-class.trycloudflare.com/dl/68ec494156eb9390e470a413
+#EXTINF:-1 tvg-id="Por Tiempo Limitado tvg-name=" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRq9BT5Pt_2Prvu9EYVivSuYCEvkM7ooOBJQu7c2A0ixs8GGd0O2P0IHk&s=10" group-title="Por Tiempo Limitado", El Conjuro 4: Últimos Ritos (2025) 
+https://compressed-estimates-cardiff-class.trycloudflare.com/dl/68e3cefc4e8ca7bd7aa3cc1d
+#EXTINF:-1 tvg-id="Por Tiempo Limitado tvg-name=" tvg-logo="https://forounivers.com/uploads/monthly_2025_08/PLDI_2025_BoxArtFireTV_Hero_3840x2160_FINAL_es-419_4447922_3000.jpg.dd43676eeef7afdf17ed72910707c307.jpg" group-title="Por Tiempo Limitado", Juego Sucio (2025)
+https://compressed-estimates-cardiff-class.trycloudflare.com/dl/68dd8cb04e8ca7bd7aa3c43f
+#EXTINF:-1 tvg-id="Por Tiempo Limitado tvg-name=" tvg-logo="https://www.accioncine.es/wp-content/uploads/2025/07/4-fantasticos.jpg" group-title="Por Tiempo Limitado", Los 4 Fantásticos: Primeros pasos (2025) 
+https://compressed-estimates-cardiff-class.trycloudflare.com/dl/68d194703bd34c09fff97790
+#EXTINF:-1 tvg-id="Por Tiempo Limitado tvg-name=" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWbYyh6ODLD_adtuor1sB8kFX2iofY5tUBGlY1wTBNSWrKddsQqkJaWccZ&s=10" group-title="Por Tiempo Limitado", Otro Viernes de Locos (2025) 
+https://compressed-estimates-cardiff-class.trycloudflare.com/dl/68cf05ae3bd34c09fff971b2
+#EXTINF:-1 tvg-id="Por Tiempo Limitado tvg-name=" tvg-logo="https://arata.lat/wp-content/uploads/2025/08/Together-Juntos-hasta-la-muerte.jpg" group-title="Por Tiempo Limitado", Together: Juntos hasta la muerte (2025) 
+https://compressed-estimates-cardiff-class.trycloudflare.com/dl/68d1762d3bd34c09fff97761
+#EXTINF:-1 tvg-id="Por Tiempo Limitado tvg-name=" tvg-logo="https://wpapi.larepublica.net/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2025/08/magazine-13-1024x536.jpg.webp" group-title="Por Tiempo Limitado", Haz que Regrese (2025)
+https://compressed-estimates-cardiff-class.trycloudflare.com/dl/68d178d13bd34c09fff97766
+#EXTINF:-1 tvg-id="Por Tiempo Limitado tvg-name=" tvg-logo="https://cdn.carteleracine.pe/sdi/2025/08/14/todo-lo-que-debes-saber-sobre-la-hora-de-la-desaparicion-la-pelicula-que-esta-redefiniendo-el-terror-psicologico-1295365.jpg" group-title="Por Tiempo Limitado", Together: La hora de la desaparición (2025)
+https://compressed-estimates-cardiff-class.trycloudflare.com/dl/68d176fb3bd34c09fff97763
+#EXTINF:-1 tvg-id="Por Tiempo Limitado tvg-name=" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt3e7u6GJwNiT6CXDFaUJeCvwAbW3vo2JwwokiWr9jHcUFA1KtxLwIv2s&s=10" group-title="Por Tiempo Limitado", Nadie 2 (2025)
+https://compressed-estimates-cardiff-class.trycloudflare.com/dl/68d17aa03bd34c09fff97767
+#EXTINF:-1 tvg-id="Por Tiempo Limitado tvg-name=" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlwmyuyPxGRpwQhHoR12tvUZvW3qOUywoajslQ9dY-5V89b9UJGBTwKwnb&s=10" group-title="Por Tiempo Limitado", ¿Y dónde está el policía (2025)
+https://compressed-estimates-cardiff-class.trycloudflare.com/dl/68d17b263bd34c09fff97768
