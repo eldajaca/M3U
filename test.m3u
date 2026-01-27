@@ -5,3 +5,10 @@ https://gently-laden-reload-pushed.trycloudflare.com/dl/6976dd04bd74e8f83c1ff74e
 https://streaming.canal-i.com/master.m3u8
 #EXTINF:-1 tvg-id="Por Tiempo Limitado tvg-name=" tvg-logo="https://lvbp.com/wp-content/uploads/2024/05/final-magallanes-vs-caribes-todo-lo-que-debes-saber_664be1190b174.jpeg" group-title="Por Tiempo Limitado", (VENEVISION) FINAL CARIBES VS MAGALLANES 
 https://liveassets.encoders.immergo.tv/venevision/uvod-live-encoder-assets-1/venevision/master.m3u8
+#EXTINF:-1 tvg-id="Por Tiempo Limitado tvg-name=" tvg-logo="https://lvbp.com/wp-content/uploads/2024/05/final-magallanes-vs-caribes-todo-lo-que-debes-saber_664be1190b174.jpeg" group-title="Por Tiempo Limitado", (TVES) FINAL CARIBES VS MAGALLANES 
+https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
+#EXTINF:-1 tvg-id="Por Tiempo Limitado tvg-name=" tvg-logo="https://lvbp.com/wp-content/uploads/2024/05/final-magallanes-vs-caribes-todo-lo-que-debes-saber_664be1190b174.jpeg" group-title="Por Tiempo Limitado", (CANAL I) FINAL CARIBES VS MAGALLANES 
+https://streaming.canal-i.com/master.m3u8
+#EXTINF:-1 tvg-id="Por Tiempo Limitado tvg-name=" tvg-logo="https://lvbp.com/wp-content/uploads/2024/05/final-magallanes-vs-caribes-todo-lo-que-debes-saber_664be1190b174.jpeg" group-title="Por Tiempo Limitado", (MERIDIANO TV) FINAL CARIBES VS MAGALLANES 
+https://e1.viginet.vectormax.com:5210/quickstart/114-934-21/index.m3u8
+
