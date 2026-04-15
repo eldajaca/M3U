@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Por Tiempo Limitado tvg-name=" tvg-logo="https://img.freepik.com/vector-premium/ilustracion-bandera-venezuela-vector-editable-bandera-pais-venezuela_981536-422.jpg?semt=ais_rp_50_assets&w=740&q=80" group-title="Por Tiempo Limitado", VENEVISION
-https://liveassets.encoders.immergo.tv/venevision/uvod-live-encoder-assets-1/venevision/master.m3u8
-#EXTINF:-1 tvg-id="Por Tiempo Limitado tvg-name=" tvg-logo="https://img.freepik.com/vector-premium/ilustracion-bandera-venezuela-vector-editable-bandera-pais-venezuela_981536-422.jpg?semt=ais_rp_50_assets&w=740&q=80" group-title="Por Tiempo Limitado", Televen Opción 1
-https://e1.viginet.vectormax.com:5210/quickstart/114-10408-218/index.m3u8
-#EXTINF:-1 tvg-id="Por Tiempo Limitado tvg-name=" tvg-logo="https://img.freepik.com/vector-premium/ilustracion-bandera-venezuela-vector-editable-bandera-pais-venezuela_981536-422.jpg?semt=ais_rp_50_assets&w=740&q=80" group-title="Por Tiempo Limitado", Televen Opción 2
-https://us.tvabierta.net/memfs/27e266f1-be6a-46d1-9091-aafa28bc9b5a_output_0.m3u8
-#EXTINF:-1 tvg-id="Por Tiempo Limitado tvg-name=" tvg-logo="https://img.freepik.com/vector-premium/ilustracion-bandera-venezuela-vector-editable-bandera-pais-venezuela_981536-422.jpg?semt=ais_rp_50_assets&w=740&q=80" group-title="Por Tiempo Limitado", (MERIDIANO TV) FINAL CARIBES VS MAGALLANES 
-https://e1.viginet.vectormax.com:5210/quickstart/114-934-21/index.m3u8
+#EXTINF:-1 tvg-id="Por Tiempo Limitado tvg-name=" tvg-logo="https://c8.alamy.com/comp/R32MMC/icon-set-design-cinema-movie-video-film-media-entertainment-show-and-premiere-theme-vector-illustration-R32MMC.jpg" group-title="Por Tiempo Limitado", ESTRENO DESTACADO SORPRESA 
+https://fcdn.koyeb.app/dl/69df8505d2bb9b3acc276ac7/Invencible.S04E07.mp4
 
