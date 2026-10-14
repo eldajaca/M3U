@@ -1,4 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Por Tiempo Limitado tvg-name=" tvg-logo="https://c8.alamy.com/comp/R32MMC/icon-set-design-cinema-movie-video-film-media-entertainment-show-and-premiere-theme-vector-illustration-R32MMC.jpg" group-title="Por Tiempo Limitado", ESTRENO DESTACADO SORPRESA 
+#EXTINF:-1 tvg-id="Por Tiempo Limitado tvg-name=" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl7vBs9oxcUbZFV89xxeZYIZetGY1o3jcy7pmIKOMeig&s" group-title="Por Tiempo Limitado", VisionQuest S01E01 
 http://liontv.es:8080/series/Kelly2022/35yD3ADcsB/2022355.mkv
-
+#EXTINF:-1 tvg-id="Por Tiempo Limitado tvg-name=" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl7vBs9oxcUbZFV89xxeZYIZetGY1o3jcy7pmIKOMeig&s" group-title="Por Tiempo Limitado", VisionQuest S01E02
+http://liontv.es:8080/series/Kelly2022/35yD3ADcsB/2022356.mkv
