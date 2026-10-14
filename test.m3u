@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Por Tiempo Limitado tvg-name=" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl7vBs9oxcUbZFV89xxeZYIZetGY1o3jcy7pmIKOMeig&s" group-title="Por Tiempo Limitado", VisionQuest S01E01 
+
+#EXTINF:-1 tvg-id="" tvg-name="VisionQuest S01E01" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl7vBs9oxcUbZFV89xxeZYIZetGY1o3jcy7pmIKOMeig&s" group-title="Por Tiempo Limitado" type="vod",VisionQuest S01E01
+#EXTVLCOPT:http-reconnect=false
 http://liontv.es:8080/series/Kelly2022/35yD3ADcsB/2022355.mkv
-#EXTINF:-1 tvg-id="Por Tiempo Limitado tvg-name=" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl7vBs9oxcUbZFV89xxeZYIZetGY1o3jcy7pmIKOMeig&s" group-title="Por Tiempo Limitado", VisionQuest S01E02
+
+#EXTINF:-1 tvg-id="" tvg-name="VisionQuest S01E02" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl7vBs9oxcUbZFV89xxeZYIZetGY1o3jcy7pmIKOMeig&s" group-title="Por Tiempo Limitado" type="vod",VisionQuest S01E02
+#EXTVLCOPT:http-reconnect=false
 http://liontv.es:8080/series/Kelly2022/35yD3ADcsB/2022356.mkv
